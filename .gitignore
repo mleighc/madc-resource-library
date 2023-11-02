@@ -7,3 +7,6 @@
 
 #large files for html generation
 /learning_resources_files/libs/
+
+#pdfs
+*.pdf
