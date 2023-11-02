@@ -1,0 +1,27 @@
+# 🔢 Statistics
+
+## Statistical Techniques
+
+#### [**Institute for Social Research (ISR) Population Dynamics and Health Program Workshops**](https://pdhp.isr.umich.edu/workshops/past/) **- Video**
+
+> A listing of past virtual workshops on various statistical techniques
+
+#### [**Consulting for Statistics, Computing, & Analytics Research (CSCAR) Workshops**](https://cscar.research.umich.edu/events/category/workshops/) **- Events**
+
+> A listing of upcoming in-person workshops on various statistical techniques
+
+#### [**Statistical Inference via Data Science: A ModernDive into R and the Tidyverse**](https://moderndive.com/index.html) **- Textbook**
+
+> The companion website to Chester Ismay and Albert Y. Kim's introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse
+
+#### [**Statistics Course for Data Science**](https://youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa&si=gZmsZ4IC8WBkzl4r) **- Video**
+
+> The Statistics for Data Science Course covers statistical concepts taught in many intro and intermediate statistics courses in universities and colleges
+
+#### [**Think Stats: Exploratory Data Analysis in Python**](https://greenteapress.com/thinkstats2/html/index.html) **- Textbook**
+
+> This text is an introduction to the practical tools of exploratory data analysis
+
+#### [**Probably Overthinking It: Data Science and Bayesian Statistics**](https://www.allendowney.com/blog/) **- Blog**
+
+> A blog series by Allen Downey, a curriculum designer at Brilliant, professor emeritus at Olin College, and author of Think Python, Think Bayes, and other books

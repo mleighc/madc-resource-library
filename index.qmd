@@ -1,0 +1,5 @@
+# 📚 Resource Library {.unnumbered}
+
+Compiled by members of the [Michigan Alzheimer's Disease Center's (MADC)](https://alzheimers.med.umich.edu/aboutus/) Data Core, this site contains a growing list of resources for current and newly on-boarded staff to build technical skills supporting the MADC's day-to-day work.
+
+If you would like to make suggestions of resources to include or provide other feedback to the team, please contact [Miranda](mleighc@med.umich.edu).

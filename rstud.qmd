@@ -1,0 +1,205 @@
+# 📈 R and RStudio
+
+## Introduction to R {#intro}
+
+#### [**Base R Cheat Sheet from Posit**](https://posit.co/wp-content/uploads/2022/10/base-r.pdf) **- Cheatsheet**
+
+> A quick reference guide (downloadable pdf) of basic syntax and functionality in R
+
+#### [**R for Data Science: Analysis and Visualization**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-r-18748884%3Ftrk%3Dshare_ent_url%26shareId%3D5bzmEKn4StWzgXT5thAUJQ%253D%253D) **- Video**
+
+> An introducty LinkedIn Learning course (2h 46m) on the basics of getting started with R for data visualization, wrangling, and analysis
+
+#### [**Quick-R**](https://www.statmethods.net/) **- Reference**
+
+> Site containing a broad overview of R resources for learning R created by a statistical consultant and research methodologist
+
+#### [**Introduction to R and RStudio**](https://www.mivideo.it.umich.edu/media/t/1_xxsq7oj2) **- Video**
+
+> A recorded workshop on workflow basics, scripts, and projects from the University of Michigan Biostatistics department
+
+#### [**R Essential Training: Wrangling and Visualizing Data**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fr-essential-training-wrangling-and-visualizing-data%3Ftrk%3Dshare_ent_url%26shareId%3DTy%252Fmt8FISbKApLxD4n0SNg%253D%253D) **- Video**
+
+> An introductory LinkedIn Learning course (4h 18m) on the essential tools for importing visualizing, and wrangling data in R
+
+#### [**Big Book of R**](https://www.bigbookofr.com/) **- Reference**
+
+> A listing of over 300 Reference books on the R programming language
+
+#### [**Tidy design principles**](https://design.tidyverse.org/) **- Book**
+
+> Still under development, this book identifies challenges and patterns to help you write better R code. There is also a [related Tidy Design Princiles blog/newsletter](https://tidydesign.substack.com/p/about-tidy-design-principles) that the author is maintaining during the writing process
+
+#### [**The tidyverse style guide**](https://style.tidyverse.org/index.html) **- Book**
+
+> A site that site describes the style used throughout the tidyverse, written by Hadley Wickham of Posit
+
+## R and Data Science {#r-ds}
+
+#### [**R for Data Science (2e)**](https://r4ds.hadley.nz/) **- Textbook**
+
+> FREE 2nd edition of "R for Data Science" which provides practical skills for data science, including data importation, data structuring, data transformation, and data visualization
+
+#### [**Statistical Inference via Data Science: A ModernDive into R and the Tidyverse**](https://moderndive.com/index.html) **- Textbook**
+
+> The companion website to Chester Ismay and Albert Y. Kim's introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse
+
+#### [**The Quartz Guide to Bad Data**](https://github.com/Quartz/bad-data-guide) **- Reference**
+
+> This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data.
+
+#### [**R Screencasts**](https://www.rscreencasts.com/) **- Video**
+
+> Live data analysis screencasts from a top Data Scientist, David Robinson
+
+#### [**Tools for Analyzing R Code the Tidy Way**](https://journal.r-project.org/archive/2020/RJ-2020-011/RJ-2020-011.pdf) **- Article**
+
+> An article on two packages, [matahari](https://cran.r-project.org/web/packages/matahari/matahari.pdf) and [tidycode](https://cran.r-project.org/web/packages/tidycode/vignettes/tidycode.html), written to analyze R code in a tidy manner
+
+#### [**Tidy Modeling with R**](https://www.tmwr.org/) **- Textbook**
+
+> A guide to using a collection of software in the R programming language for model building called tidymodels
+
+## R Markdown {#r-mark}
+
+#### [**R Markdown Cookbook**](https://bookdown.org/yihui/rmarkdown-cookbook/) **- Textbook**
+
+> This book is broken down into small "recipes" that aim to demonstrate a single R Markdown concept at a time. 
+
+#### [**R Markdown: The Definitive Guide**](https://bookdown.org/yihui/rmarkdown/) **- Reference**
+
+> This book is a definitive reference guide to the R Markdown language
+
+## R Packages {#r-pack}
+
+#### [**Quick list of useful R packages**](https://support.posit.co/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages) **- Reference**
+
+> A categorized list of recommended free libraries of code written by the active user community
+
+#### [**CRAN Task Views**](https://cloud.r-project.org/web/views/) **- Reference**
+
+> Comprehensive R Archive Network (CRAN)'s listing of packages by topic area or "task", i.e. Bayesian, ClinicalTrials, MachineLearning, MissingData, etc
+
+#### [**ggplot2 Cheatsheet by Posit**](https://rstudio.github.io/cheatsheets/data-visualization.pdf) **- Cheatsheet**
+
+> A quick reference guide for basic syntax and functionality of the data visualization ggplot2 package, including a downloadable pdf
+
+#### [**rmarkdown Cheatsheet by Posit**](https://rstudio.github.io/cheatsheets/rmarkdown.pdf) **- Cheatsheet**
+
+> A quick reference guide for basic syntax and functionality of the authoring framework rmarkdown, including a downloadable pdf
+
+#### [**tidyverse Cheatsheet by Posit**](https://rstudio.github.io/cheatsheets/data-import.pdf) **- Cheatsheet**
+
+> A quick reference guide for basic syntax and functionality of the data science packages that comprise the tidyverse, including a downloadable pdf
+
+#### [**dplyr Cheatsheet by Posit**](https://rstudio.github.io/cheatsheets/data-transformation.pdf) **- Cheatsheet**
+
+> A quick reference guide for basic syntax and functionality of the data manipulation dplyr package, including a downloadable pdf
+
+#### [**tidyr Cheatsheet by Posit**](https://rstudio.github.io/cheatsheets/tidyr.pdf) **- Cheatsheet**
+
+> A quick reference guide for basic syntax and functionality of the data cleaning tidyr package, including a downloadable pdf
+
+#### [**Using Python with RStudio and reticulate**](https://docs.posit.co/tutorials/user/using-python-with-rstudio-and-reticulate/) **- Video**
+
+> This tutorial walks through the steps to enable data scientists to use RStudio and the reticulate package to call their Python code from Shiny apps, R Markdown notebooks, and Plumber REST APIs
+
+#### [**htmlwidget**](https://www.htmlwidgets.org/develop_intro.html)**- Documentation**
+
+> A package for creating JavaScript data visualizations in R
+
+#### [**reprex**](https://reprex.tidyverse.org/) **- Documentation**
+
+> An R package for preparing reproducible examples of R code
+
+## Write Your Own R Package {#pack}
+
+#### [**Reproducible research with R, RStudio and GitLab**](https://matthieu-bruneaux.gitlab.io/guide-r-rstudio-git-gitlab/index.html#reproducible-research-with-r-rstudio-and-gitlab) **- Documentation**
+
+> A manual describing easy reproducibility and collaboration with R and Git
+
+#### [**Instructions for Creating Your Own R Package**](https://web.mit.edu/insong/www/pdf/rpackage_instructions.pdf) **- Article**
+
+> An article with a step-by-step guide to creating your own R package
+
+#### [**Writing R Packages in RStudio**](https://ourcodingclub.github.io/tutorials/writing-r-package/) **- Tutorial**
+
+> A tutorial walking through the set up of a basic R package that can be installed from GitHub
+
+#### [**Making Your First R Package**](https://tinyheero.github.io/jekyll/update/2015/07/26/making-your-first-R-package.html) **- Blog**
+
+> A blog entry that walks through the steps of organizing code in a package with consistent documentation
+
+#### [**The Package: learning how to build an R package**](r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/) **- Blog**
+
+> A blog entry from R-Bloggers that walks through the process of setting up an R package
+
+#### [**Writing an R package from scratch**](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/) **- Blog**
+
+> A blog entry from Hilary Parker of Etsy on setting up your first R package from scratch
+
+#### [**CRAN documentation on Creating R packages**](https://cran.r-project.org/doc/manuals/R-exts.html#Creating-R-packages) **- Reference**
+
+> Original documentation on how to create an R package from the Comprehensive R Archive Network (CRAN)
+
+#### [**How to write your own R package and publish it on CRAN**](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/) **- Tutorial**
+
+> A blog tutorial on writing and publishing R packages
+
+#### [**R Packages (2e)**](https://r-pkgs.org/) **- Textbook**
+
+> Learn how to create a package, the fundamental unit of shareable, reusable, and reproducible R code from Hadley Wickham and Jennifer Bryan of Posit
+
+## Visualization in R {#r-viz}
+
+#### [**The R Graph Gallery**](https://r-graph-gallery.com/) **- Reference**
+
+> A collection of R's available chart types listed by purpose, and including guidance on required packages and syntax
+
+#### [**Data Visualization in R With ggplot2**](https://learning.oreilly.com/videos/data-visualization-in/9781491963661/9781491963661-video256235/) **- Video**
+
+> A video course on how to create great looking, insightful data visualizations using the R package, ggplot2
+
+#### [**Color in Data Vis**](https://blog.datawrapper.de/category/color-in-data-vis/) **- Blog**
+
+> A feed of blog entries on the selection of beautiful, legible colors in data visualization, charts, and maps
+
+## Data Wrangling in R {#r-wrangle}
+
+#### [**Data Wrangling with R**](https://link.springer.com/book/10.1007/978-3-319-45599-0) **- Textbook**
+
+> A text for all levels of R programmers, covering the various data wrangling packages: dplyr, tidyr, httr, stringr, lubridate, readr, rvest, magrittr, xlsx, readxl, and others
+
+#### [**Data Wrangling in R**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdata-wrangling-in-r-14135737%3Ftrk%3Dshare_ent_url%26shareId%3DPlrh1FSLQ9SMiLJ5gLFYGA%253D%253D) **- Video**
+
+> A (2h 51m) LinkedIn Learning course that provides an overview of data wrangling techniques for cleaning and transforming data
+
+#### [**Introduction to the Tidyverse**](https://www.mivideo.it.umich.edu/media/t/1_z1t4qths) **- Video**
+
+> A recorded workshop on the tidyverse and visualizing data in ggplot2 from the University of Michigan Biostatistics department
+
+#### [**Learning the R Tidyverse**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-the-r-tidyverse%3Ftrk%3Dshare_ent_url%26shareId%3Dehaqf8cOSwSdHdIMKzDxcA%253D%253D) **- Video**
+
+> A (3h 50m) LinkedIn Learning course walking through the tidyverse approach to data science
+
+## Programming in R {#prog-r}
+
+#### [**Introduction to Programming in R**](https://www.mivideo.it.umich.edu/media/t/1_4l4jfwk6) **- Video**
+
+> A recorded workshop on functions, vectors, and iteration in R from the University of Michigan Biostatistics department
+
+#### [**Efficient R Programming**](https://csgillespie.github.io/efficientR/index.html) **- Textbook**
+
+> A textbook for all skill levels on making R code faster, more efficient, and scalable
+
+#### [**Hands-On Programming with R**](https://rstudio-education.github.io/hopr/) **- Textbook**
+
+> This book will teach you how to program in R, with hands-on examples.
+
+#### [**Advanced R**](https://adv-r.hadley.nz/metaprogramming.html) **- Textbook**
+
+> An advanced textbook on metaprogramming or the idea that code is data that can be inspected and modified programmatically
+
+#### [**R Programming for Data Science**](https://bookdown.org/rdpeng/rprogdatascience/) **- Textbook**
+
+> This book is about the fundamentals of R programming. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.

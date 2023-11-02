@@ -1,0 +1,21 @@
+# 📊 Tableau
+
+## Learn Tableau {#tabloverview}
+
+#### [**Tableau for Data Scientists**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftableau-for-data-scientists%3Ftrk%3Dshare_ent_url%26shareId%3Dr%252FXyRPKZTHewj%252BrCRPGgHw%253D%253D) **- Video**
+
+> A (5h 55m) LinkedIn Learning course on how to visualize data in Tableau
+
+#### [**Creating Interactive Tableau Dashboards**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcreating-interactive-tableau-dashboards%3Ftrk%3Dshare_ent_url%26shareId%3DZWy1jq8KROK%252FgpgN7qEP%252Fw%253D%253D) **- Video**
+
+> A (3h 28m) LinkedIn Learning course on how to create interactive dashboards in Tableau
+
+#### [**Tableau and R for Analytics Projects**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Ftableau-and-r-for-analytics-projects%3Ftrk%3Dshare_ent_url%26shareId%3DsvYsOcyWTAO%252BsAMoo8xFug%253D%253D) **- Video**
+
+> A (2h 27m) LinkedIn Learning course on visualizing data with Tableau and R
+
+## Visualization in Tableau {#tab-viz}
+
+#### [**Data Visualization Tips and Tricks**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdata-visualization-tips-and-tricks%3Ftrk%3Dshare_ent_url%26shareId%3DscvyvRdpTfSTX1ANpXwjDA%253D%253D) **- Video**
+
+> A (2h 14m) LinkedIn Learning course giving guidance on basic data visualization

@@ -1,0 +1,27 @@
+# ❗❗ Regular Expressions
+
+## Learn Regex {#regex-overview}
+
+#### [**Regex101**](https://regex101.com/) **- Tool**
+
+> Helpful online tool for learning, building, and matching regular expressions to a test string
+
+#### [**RegExr**](https://regexr.com/) **- Tool**
+
+> Helpful online tool for learning, building, and matching regular expressions to a test string
+
+#### [**RegexOne**](https://regexone.com/) **- Tutorial**
+
+> An interactive tutorial with simple exercises for learning regular expressions
+
+#### [**RegexLearn**](https://regexlearn.com/learn) **- Tutorial**
+
+> A step-by-step tutorial for practicing regular expressions
+
+#### [**RegexLearn Cheatsheet**](https://regexlearn.com/cheatsheet) **- Cheatsheet**
+
+> Quick reference guide for regex syntax
+
+#### [**Learning Regular Expressions**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-regular-expressions-15586553%3Ftrk%3Dshare_ent_url%26shareId%3D7Gyf%252BRuCTyyt1MtL56Lw3A%253D%253D) **- Video**
+
+> A (3h 18m) LinkedIn Learning course with a broad overview of regular expressions
