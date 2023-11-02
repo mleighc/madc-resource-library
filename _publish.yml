@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: acb87ab2-1015-44f3-a1f5-1cf6416c89d1
+      url: 'https://mleighc.quarto.pub/madc-learning-resource-library'

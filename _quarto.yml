@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: "MADC Learning Resource Library"
+  author: "Miranda Cooper"
+  date: "10/12/2023"
+  chapters:
+    - index.qmd
+    - git.qmd
+    - m365.qmd
+    - python.qmd
+    - rstud.qmd
+    - regex.qmd
+    - stats.qmd
+    - tableau.qmd
+    - techdoc.qmd
+    
+cover-image: cover.png
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
