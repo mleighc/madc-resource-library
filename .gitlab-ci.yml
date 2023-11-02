@@ -12,7 +12,6 @@ setup_quarto:
   image: quarto/quarto-cli:latest
   script:
     - quarto --version  # Check the Quarto version for verification
-    - quarto init       # Initialize a Quarto project (optional)
   tags:
     - shared
   
