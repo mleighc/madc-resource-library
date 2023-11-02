@@ -1,37 +1,20 @@
-# stages:
-#   - deploy
-# 
-# image: quarto/quarto:latest  # Use the official Quarto Docker image
-# 
-# variables:
-#   QUARTO_PUBLISH_TOKEN: $QUARTO_PUB_AUTH_TOKEN  # Set this variable in GitLab CI/CD settings
-#   QUARTO_PUBLISH_PROJECT: madc-learning-resource-library  # Replace with your Quarto project name
-#   
-#   
-# deploy:
-#   stage: deploy
-#   only:
-#     - main  # Deploy only when changes are pushed to the main branch
-#   script:
-#     - export $QUARTO_PUB_AUTH_TOKEN
-#     - quarto publish quarto-pub  # Publish the Quarto publication
-
-
 stages:
-  - build
-  - test
+  - deploy
 
-build:
-  stage: build
-  script:
-    - echo "Building..."
-  tags:
-    - shared
+image: quarto/quarto:latest  # Use the official Quarto Docker image
 
-test:
-  stage: test
+variables:
+  QUARTO_PUBLISH_TOKEN: $QUARTO_PUB_AUTH_TOKEN  # Set this variable in GitLab CI/CD settings
+  QUARTO_PUBLISH_PROJECT: madc-learning-resource-library  # Replace with your Quarto project name
+
+
+deploy:
+  stage: deploy
+  only:
+    - main
   script:
-    - echo "Testing..."
+    - export $QUARTO_PUB_AUTH_TOKEN
+    - quarto publish quarto-pub  # Publish the Quarto publication
   tags:
     - shared
     
