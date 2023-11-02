@@ -1,17 +1,15 @@
 stages:
-  - deploy
+  - publish
 
 variables:
   QUARTO_PUBLISH_TOKEN: $QUARTO_PUB_AUTH_TOKEN  # Set this variable in GitLab CI/CD settings
   QUARTO_PUBLISH_PROJECT: madc-learning-resource-library  # Replace with your Quarto project name
-
-deploy:
-  stage: deploy
-  only:
-    - main
+    
+    
+quarto_publish:
+  stage: publish
   script:
-    - export $QUARTO_PUB_AUTH_TOKEN
-    - quarto publish quarto-pub  # Publish the Quarto publication
+    - apt-get update && apt-get install -y quarto
+    - quarto publish quarto-pub --no-prompt --no-browser
   tags:
     - shared
-    
