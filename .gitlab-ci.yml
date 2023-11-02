@@ -1,32 +1,24 @@
 stages:
   - setup
-  - build
   - publish   
   
 variables:
   QUARTO_PUBLISH_TOKEN: $QUARTO_PUB_AUTH_TOKEN  # Set this variable in GitLab CI/CD settings
   QUARTO_PUBLISH_PROJECT: madc-learning-resource-library  # Replace with your Quarto project name
+  
+image: rocker/r-ver:4.1.1
 
 setup_quarto:
   stage: setup
+  image: rocker/r-ver:4.1.1  # Use an R-compatible Docker image
   script:
-    - quarto --version  # Check the Quarto version for verification
-  tags:
-    - shared
-  
-build_document:
-  stage: build
-  script:
-    - quarto build      # Build your Quarto document
-  only:
-    - main             # This job will only run on the 'main' branch
+    - R -e "install.packages('quarto', repos='https://cran.rstudio.com')"
   tags:
     - shared
     
 quarto_publish:
   stage: publish
   script:
-    - apt-get update && apt-get install -y quarto
     - quarto publish quarto-pub --no-prompt --no-browser
   tags:
     - shared
