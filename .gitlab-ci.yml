@@ -13,6 +13,8 @@ setup_quarto:
   script:
     - quarto --version  # Check the Quarto version for verification
     - quarto init       # Initialize a Quarto project (optional)
+  tags:
+    - shared
   
 build_document:
   stage: build
@@ -20,6 +22,8 @@ build_document:
     - quarto build      # Build your Quarto document
   only:
     - main             # This job will only run on the 'main' branch
+  tags:
+    - shared
     
 quarto_publish:
   stage: publish
