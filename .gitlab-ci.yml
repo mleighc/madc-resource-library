@@ -9,7 +9,6 @@ variables:
 
 setup_quarto:
   stage: setup
-  image: quarto/quarto-cli:latest
   script:
     - quarto --version  # Check the Quarto version for verification
   tags:
