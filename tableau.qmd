@@ -14,6 +14,14 @@
 
 > A (2h 27m) LinkedIn Learning course on visualizing data with Tableau and R
 
+#### [**IT4U91: 50 Tableau Tips**](https://www.mivideo.it.umich.edu/playlist/dedicated/121481171/1_9kymbhiv/1_pa7d5y9v) **- Video**
+
+> A (40m) video on techniques and tips for building Tableau visualizations from the University of Michigan's ITS department
+
+#### [**IT4U79: Tiled Dashboards Design in Tableau**](https://www.mivideo.it.umich.edu/playlist/dedicated/121481171/1_9kymbhiv/1_oy05339k) **- Video**
+
+> A (43m) video on building a dashboard layout in Tableau by the University of Michigan's ITS department
+
 ## Visualization in Tableau {#tab-viz}
 
 #### [**Data Visualization Tips and Tricks**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fdata-visualization-tips-and-tricks%3Ftrk%3Dshare_ent_url%26shareId%3DscvyvRdpTfSTX1ANpXwjDA%253D%253D) **- Video**

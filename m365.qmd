@@ -49,3 +49,7 @@
 #### [**Managing Projects with Microsoft 365**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmanaging-projects-with-microsoft-365%3Ftrk%3Dshare_ent_url%26shareId%3DF1dFw1tHTDCFwOptEFADAQ%253D%253D) **- Video**
 
 > A (49m) overview course on managing project using Microsoft Lists, Planner, and Project
+
+#### [**Microsoft Planner Essential Training**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmicrosoft-planner-essential-training-2021%3Ftrk%3Dshare_ent_url%26shareId%3D0TzBAbapRymqdDjkse3vCg%253D%253D) **- Video**
+
+> A (1h 27m) Linkedin Learning course on the essential features of Microsoft Planner
