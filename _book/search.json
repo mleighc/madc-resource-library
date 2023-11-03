@@ -7,178 +7,178 @@
     "text": "📚 Resource Library\nCompiled by members of the Michigan Alzheimer’s Disease Center’s (MADC) Data Core, this site contains a growing list of resources for current and newly on-boarded staff to build technical skills supporting the MADC’s day-to-day work.\nIf you would like to make suggestions of resources to include or provide other feedback to the team, please contact Miranda."
   },
   {
-    "objectID": "git.html#learn_git",
-    "href": "git.html#learn_git",
-    "title": "1  💾 Git and GitLab",
-    "section": "1.1 Learn Git",
-    "text": "1.1 Learn Git\n\n1.1.0.1 Pro Git book - Book\n\nLearn git at your own pace with the Pro Git Book, managed by the git community\n\n\n\n1.1.0.2 Git Cheatsheet by GitLab - Cheatsheet\n\nQuick reference guide for important Git commands, created by GitLab\n\n\n\n1.1.0.3 Git Cheatsheet by Atlassian - Cheatsheet\n\nA handy git cheat sheet guide to enhance your workflow, created by Atlassian.\n\n\n\n1.1.0.4 Git Cheatsheet by GitHub - Cheatsheet\n\nQuick reference guide for important Git commands, created by GitHub\n\n\n\n1.1.0.5 Getting Git: Git version control software with RStudio - Video\n\nA recorded workshop on Git version control software with RStudio from the University of Michigan Biostatistics department\n\n\n\n1.1.0.6 Using Git with RStudio - Tutorial\n\nQuick reference step-by-step tutorial on setting up git with RStudio\n\n\n\n1.1.0.7 Git Learning Videos - Video\n\nLinks to some basic tutorial videos created by the git maintainer community\n\n\n\n1.1.0.8 Learn Git on the Command Line - Video\n\nA playlist of YouTube videos prepared by Tower, a git client for macOS and Windows"
-  },
-  {
-    "objectID": "git.html#learn_gitlab",
-    "href": "git.html#learn_gitlab",
-    "title": "1  💾 Git and GitLab",
-    "section": "1.2 Learn GitLab",
-    "text": "1.2 Learn GitLab\n\n1.2.0.1 Learn GitLab with Pj: A Walkthrough and Explanation - Video\n\nOverview and walkthrough of GitLab Project basics by a member of the GitLab education team\n\n\n\n1.2.0.2 GitLab Flavored Markdown (GLFM) - Documentation\n\nOverview of styling and syntax for GitLab’s version of Markdown\n\n\n\n1.2.0.3 Use the left sidebar to navigate GitLab - Tutorial\n\nA walk-through of GitLab’s navigation in the left-hand sidebar\n\n\n\n1.2.0.4 Learning GitLab - Video\n\nA (1h 3m) LinkedIn Learning tutorial with an overview of basic GitLab UI and functionality"
-  },
-  {
-    "objectID": "git.html#learn_vcontrol",
-    "href": "git.html#learn_vcontrol",
-    "title": "1  💾 Git and GitLab",
-    "section": "1.3 Learn Version Control and Source Code Management",
-    "text": "1.3 Learn Version Control and Source Code Management\n\n1.3.0.1 What is Version Control? [Learn Git Video Course] - Video\n\nA short video reviewing the basics of version control and why to use it\n\n\n\n1.3.0.2 GitLab Branching Strategy | GitLab Flow Tutorial Part 1 - Video\n\nA (15 min) tutorial discussing GitLab Flow and a conceptual overview of strategies for working with Git"
-  },
-  {
-    "objectID": "m365.html#apps",
-    "href": "m365.html#apps",
-    "title": "2  📰 Microsoft 365",
-    "section": "2.1 Apps Overview",
-    "text": "2.1 Apps Overview\n\n2.1.0.1 Describe productivity solutions of Microsoft 365 - Module\n\nLearn about how the productivity solutions through Microsoft 365 help optimize operations, enhance content creation, and empower people to perform tasks in real-time from virtually anywhere"
-  },
-  {
-    "objectID": "m365.html#auto",
-    "href": "m365.html#auto",
-    "title": "2  📰 Microsoft 365",
-    "section": "2.2 Automation",
-    "text": "2.2 Automation\n\n2.2.0.1 Learning Power Automate Desktop for Developers - Video\n\nA (1h 45m) introductory course on getting started with Power Automate Desktop."
-  },
-  {
-    "objectID": "m365.html#data-man",
-    "href": "m365.html#data-man",
-    "title": "2  📰 Microsoft 365",
-    "section": "2.3 Data Management",
-    "text": "2.3 Data Management\n\n2.3.0.1 Managing Data with Microsoft 365 - Video\n\nA (1h 3m) overview course on managing data with Microsoft Forms, Excel, Power Automate, and Power BI"
-  },
-  {
-    "objectID": "m365.html#gantt",
-    "href": "m365.html#gantt",
-    "title": "2  📰 Microsoft 365",
-    "section": "2.4 Gantt",
-    "text": "2.4 Gantt\n\n2.4.0.1 Present your data in a Gantt chart in Excel - Tutorial\n\nMicrosoft 365 subscription offers premium Gantt chart templates designed to help you track project tasks with visual reminders and color-coded categories\n\n\n\n2.4.0.2 Get organized with Gantt chart templates - Templates\n\nA listing of Gantt chart templates for Excel\n\n\n\n2.4.0.3 Use a wizard to create a Gantt Chart - Tutorial\n\nSpecific to Microsoft Project, which includes a wizard to walk through the creation of a Gantt chart\n\n\n\n2.4.0.4 Building a Gantt Chart using Power BI - Tutorial\n\nA step-by-step guide on loading an excel sheet into Power BI to create a Gantt chart\n\n\n\n2.4.0.5 Set up a basic Gantt chart in Excel - Video\n\nA 10 minute video walking through the process of a setting up a Gantt chart using Excel\n\n\n\n2.4.0.6 Using Excel for Gantt charts: My top 10 tips - Video\n\nA quick 4 minute video with pro tips on using Excel for Gantt charts"
-  },
-  {
-    "objectID": "m365.html#proj-man",
-    "href": "m365.html#proj-man",
-    "title": "2  📰 Microsoft 365",
-    "section": "2.5 Project Management",
-    "text": "2.5 Project Management\n\n2.5.0.1 Managing Projects with Microsoft 365 - Video\n\nA (49m) overview course on managing project using Microsoft Lists, Planner, and Project"
-  },
-  {
-    "objectID": "python.html#learn-python",
-    "href": "python.html#learn-python",
-    "title": "3  🐍 Python",
-    "section": "3.1 Learn Python",
-    "text": "3.1 Learn Python\n\n3.1.0.1 PEP 8 – Style Guide for Python Code - Documentation\n\nThis document gives coding conventions for the Python code comprising the standard library in the main Python distribution\n\n\n\n3.1.0.2 Python Tutor - Tutorial\n\nThe Python Tutor is a unique step-by-step visual debugger and AI tutor to help you understand and debug code\n\n\n\n3.1.0.3 Python for Everybody\n\nThis web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python\n\n\n\n3.1.0.4 Python Virtual Environments - Tutorial\n\nA quick guide for setting up Python virtual environments on macOS and Windows 10\n\n\n\n3.1.0.5 Fluent Python - Textbook\n\nA hands-on guide walking through how to write effective, modern Python 3 code by leveraging its core language features and libraries\n\n\n\n3.1.0.6 pandas Documentation - Documentation\n\npandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language\n\n\n\n3.1.0.7 Think Python: How to Think Like a Computer Scientist - Textbook\n\nA textbook that teaches Python through the lens of a computer scientist, utilizing the best features from mathematics, engineering, and natural science"
-  },
-  {
-    "objectID": "python.html#py-datasci",
-    "href": "python.html#py-datasci",
-    "title": "3  🐍 Python",
-    "section": "3.2 Python for Data Science",
-    "text": "3.2 Python for Data Science\n\n3.2.0.1 Data Analysis with Pandas and Python - Textbook\n\nA text that introduces you to the popular Pandas library built on top of the Python programming language\n\n\n\n3.2.0.2 Python for Data Analysis, 3rd Edition - Textbook\n\nA definitive handbook for manipulating, processing, cleaning, and crunching datasets in Python\n\n\n\n3.2.0.3 Pandas for Everyone: Python Data Analysis, 2nd Edition - Textbook\n\nA text providing practical knowledge and insight for solving real problems with pandas, even for those new to Python data analysis\n\n\n\n3.2.0.4 Python Data Science Handbook, 2nd Edition - Textbook\n\nA handbook for scientific computing in Python that highlights the data science stack - IPython, NumPy, pandas, Matplotlib, Scikit-Learn, and other related tools"
-  },
-  {
-    "objectID": "rstud.html#intro",
-    "href": "rstud.html#intro",
-    "title": "4  📈 R and RStudio",
-    "section": "4.1 Introduction to R",
-    "text": "4.1 Introduction to R\n\n4.1.0.1 Base R Cheat Sheet from Posit - Cheatsheet\n\nA quick reference guide (downloadable pdf) of basic syntax and functionality in R\n\n\n\n4.1.0.2 R for Data Science: Analysis and Visualization - Video\n\nAn introducty LinkedIn Learning course (2h 46m) on the basics of getting started with R for data visualization, wrangling, and analysis\n\n\n\n4.1.0.3 Quick-R - Reference\n\nSite containing a broad overview of R resources for learning R created by a statistical consultant and research methodologist\n\n\n\n4.1.0.4 Introduction to R and RStudio - Video\n\nA recorded workshop on workflow basics, scripts, and projects from the University of Michigan Biostatistics department\n\n\n\n4.1.0.5 R Essential Training: Wrangling and Visualizing Data - Video\n\nAn introductory LinkedIn Learning course (4h 18m) on the essential tools for importing visualizing, and wrangling data in R\n\n\n\n4.1.0.6 Big Book of R - Reference\n\nA listing of over 300 Reference books on the R programming language\n\n\n\n4.1.0.7 Tidy design principles - Book\n\nStill under development, this book identifies challenges and patterns to help you write better R code. There is also a related Tidy Design Princiles blog/newsletter that the author is maintaining during the writing process\n\n\n\n4.1.0.8 The tidyverse style guide - Book\n\nA site that site describes the style used throughout the tidyverse, written by Hadley Wickham of Posit"
-  },
-  {
-    "objectID": "rstud.html#r-ds",
-    "href": "rstud.html#r-ds",
-    "title": "4  📈 R and RStudio",
-    "section": "4.2 R and Data Science",
-    "text": "4.2 R and Data Science\n\n4.2.0.1 R for Data Science (2e) - Textbook\n\nFREE 2nd edition of “R for Data Science” which provides practical skills for data science, including data importation, data structuring, data transformation, and data visualization\n\n\n\n4.2.0.2 Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Textbook\n\nThe companion website to Chester Ismay and Albert Y. Kim’s introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse\n\n\n\n4.2.0.3 The Quartz Guide to Bad Data - Reference\n\nThis guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data.\n\n\n\n4.2.0.4 R Screencasts - Video\n\nLive data analysis screencasts from a top Data Scientist, David Robinson\n\n\n\n4.2.0.5 Tools for Analyzing R Code the Tidy Way - Article\n\nAn article on two packages, matahari and tidycode, written to analyze R code in a tidy manner\n\n\n\n4.2.0.6 Tidy Modeling with R - Textbook\n\nA guide to using a collection of software in the R programming language for model building called tidymodels"
-  },
-  {
-    "objectID": "rstud.html#r-mark",
-    "href": "rstud.html#r-mark",
-    "title": "4  📈 R and RStudio",
-    "section": "4.3 R Markdown",
-    "text": "4.3 R Markdown\n\n4.3.0.1 R Markdown Cookbook - Textbook\n\nThis book is broken down into small “recipes” that aim to demonstrate a single R Markdown concept at a time. \n\n\n\n4.3.0.2 R Markdown: The Definitive Guide - Reference\n\nThis book is a definitive reference guide to the R Markdown language"
-  },
-  {
-    "objectID": "rstud.html#r-pack",
-    "href": "rstud.html#r-pack",
-    "title": "4  📈 R and RStudio",
-    "section": "4.4 R Packages",
-    "text": "4.4 R Packages\n\n4.4.0.1 Quick list of useful R packages - Reference\n\nA categorized list of recommended free libraries of code written by the active user community\n\n\n\n4.4.0.2 CRAN Task Views - Reference\n\nComprehensive R Archive Network (CRAN)’s listing of packages by topic area or “task”, i.e. Bayesian, ClinicalTrials, MachineLearning, MissingData, etc\n\n\n\n4.4.0.3 ggplot2 Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the data visualization ggplot2 package, including a downloadable pdf\n\n\n\n4.4.0.4 rmarkdown Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the authoring framework rmarkdown, including a downloadable pdf\n\n\n\n4.4.0.5 tidyverse Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the data science packages that comprise the tidyverse, including a downloadable pdf\n\n\n\n4.4.0.6 dplyr Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the data manipulation dplyr package, including a downloadable pdf\n\n\n\n4.4.0.7 tidyr Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the data cleaning tidyr package, including a downloadable pdf\n\n\n\n4.4.0.8 Using Python with RStudio and reticulate - Video\n\nThis tutorial walks through the steps to enable data scientists to use RStudio and the reticulate package to call their Python code from Shiny apps, R Markdown notebooks, and Plumber REST APIs\n\n\n\n4.4.0.9 htmlwidget- Documentation\n\nA package for creating JavaScript data visualizations in R\n\n\n\n4.4.0.10 reprex - Documentation\n\nAn R package for preparing reproducible examples of R code"
-  },
-  {
-    "objectID": "rstud.html#pack",
-    "href": "rstud.html#pack",
-    "title": "4  📈 R and RStudio",
-    "section": "4.5 Write Your Own R Package",
-    "text": "4.5 Write Your Own R Package\n\n4.5.0.1 Reproducible research with R, RStudio and GitLab - Documentation\n\nA manual describing easy reproducibility and collaboration with R and Git\n\n\n\n4.5.0.2 Instructions for Creating Your Own R Package - Article\n\nAn article with a step-by-step guide to creating your own R package\n\n\n\n4.5.0.3 Writing R Packages in RStudio - Tutorial\n\nA tutorial walking through the set up of a basic R package that can be installed from GitHub\n\n\n\n4.5.0.4 Making Your First R Package - Blog\n\nA blog entry that walks through the steps of organizing code in a package with consistent documentation\n\n\n\n4.5.0.5 The Package: learning how to build an R package - Blog\n\nA blog entry from R-Bloggers that walks through the process of setting up an R package\n\n\n\n4.5.0.6 Writing an R package from scratch - Blog\n\nA blog entry from Hilary Parker of Etsy on setting up your first R package from scratch\n\n\n\n4.5.0.7 CRAN documentation on Creating R packages - Reference\n\nOriginal documentation on how to create an R package from the Comprehensive R Archive Network (CRAN)\n\n\n\n4.5.0.8 How to write your own R package and publish it on CRAN - Tutorial\n\nA blog tutorial on writing and publishing R packages\n\n\n\n4.5.0.9 R Packages (2e) - Textbook\n\nLearn how to create a package, the fundamental unit of shareable, reusable, and reproducible R code from Hadley Wickham and Jennifer Bryan of Posit"
-  },
-  {
-    "objectID": "rstud.html#r-viz",
-    "href": "rstud.html#r-viz",
-    "title": "4  📈 R and RStudio",
-    "section": "4.6 Visualization in R",
-    "text": "4.6 Visualization in R\n\n4.6.0.1 The R Graph Gallery - Reference\n\nA collection of R’s available chart types listed by purpose, and including guidance on required packages and syntax\n\n\n\n4.6.0.2 Data Visualization in R With ggplot2 - Video\n\nA video course on how to create great looking, insightful data visualizations using the R package, ggplot2\n\n\n\n4.6.0.3 Color in Data Vis - Blog\n\nA feed of blog entries on the selection of beautiful, legible colors in data visualization, charts, and maps"
-  },
-  {
-    "objectID": "rstud.html#r-wrangle",
-    "href": "rstud.html#r-wrangle",
-    "title": "4  📈 R and RStudio",
-    "section": "4.7 Data Wrangling in R",
-    "text": "4.7 Data Wrangling in R\n\n4.7.0.1 Data Wrangling with R - Textbook\n\nA text for all levels of R programmers, covering the various data wrangling packages: dplyr, tidyr, httr, stringr, lubridate, readr, rvest, magrittr, xlsx, readxl, and others\n\n\n\n4.7.0.2 Data Wrangling in R - Video\n\nA (2h 51m) LinkedIn Learning course that provides an overview of data wrangling techniques for cleaning and transforming data\n\n\n\n4.7.0.3 Introduction to the Tidyverse - Video\n\nA recorded workshop on the tidyverse and visualizing data in ggplot2 from the University of Michigan Biostatistics department\n\n\n\n4.7.0.4 Learning the R Tidyverse - Video\n\nA (3h 50m) LinkedIn Learning course walking through the tidyverse approach to data science"
-  },
-  {
-    "objectID": "rstud.html#prog-r",
-    "href": "rstud.html#prog-r",
-    "title": "4  📈 R and RStudio",
-    "section": "4.8 Programming in R",
-    "text": "4.8 Programming in R\n\n4.8.0.1 Introduction to Programming in R - Video\n\nA recorded workshop on functions, vectors, and iteration in R from the University of Michigan Biostatistics department\n\n\n\n4.8.0.2 Efficient R Programming - Textbook\n\nA textbook for all skill levels on making R code faster, more efficient, and scalable\n\n\n\n4.8.0.3 Hands-On Programming with R - Textbook\n\nThis book will teach you how to program in R, with hands-on examples.\n\n\n\n4.8.0.4 Advanced R - Textbook\n\nAn advanced textbook on metaprogramming or the idea that code is data that can be inspected and modified programmatically\n\n\n\n4.8.0.5 R Programming for Data Science - Textbook\n\nThis book is about the fundamentals of R programming. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox."
-  },
-  {
-    "objectID": "regex.html#regex-overview",
-    "href": "regex.html#regex-overview",
-    "title": "5  ❗❗ Regular Expressions",
-    "section": "5.1 Learn Regex",
-    "text": "5.1 Learn Regex\n\n5.1.0.1 Regex101 - Tool\n\nHelpful online tool for learning, building, and matching regular expressions to a test string\n\n\n\n5.1.0.2 RegExr - Tool\n\nHelpful online tool for learning, building, and matching regular expressions to a test string\n\n\n\n5.1.0.3 RegexOne - Tutorial\n\nAn interactive tutorial with simple exercises for learning regular expressions\n\n\n\n5.1.0.4 RegexLearn - Tutorial\n\nA step-by-step tutorial for practicing regular expressions\n\n\n\n5.1.0.5 RegexLearn Cheatsheet - Cheatsheet\n\nQuick reference guide for regex syntax\n\n\n\n5.1.0.6 Learning Regular Expressions - Video\n\nA (3h 18m) LinkedIn Learning course with a broad overview of regular expressions"
-  },
-  {
-    "objectID": "stats.html#statistical-techniques",
-    "href": "stats.html#statistical-techniques",
-    "title": "6  🔢 Statistics",
-    "section": "6.1 Statistical Techniques",
-    "text": "6.1 Statistical Techniques\n\n6.1.0.1 Institute for Social Research (ISR) Population Dynamics and Health Program Workshops - Video\n\nA listing of past virtual workshops on various statistical techniques\n\n\n\n6.1.0.2 Consulting for Statistics, Computing, & Analytics Research (CSCAR) Workshops - Events\n\nA listing of upcoming in-person workshops on various statistical techniques\n\n\n\n6.1.0.3 Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Textbook\n\nThe companion website to Chester Ismay and Albert Y. Kim’s introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse\n\n\n\n6.1.0.4 Statistics Course for Data Science - Video\n\nThe Statistics for Data Science Course covers statistical concepts taught in many intro and intermediate statistics courses in universities and colleges\n\n\n\n6.1.0.5 Think Stats: Exploratory Data Analysis in Python - Textbook\n\nThis text is an introduction to the practical tools of exploratory data analysis\n\n\n\n6.1.0.6 Probably Overthinking It: Data Science and Bayesian Statistics - Blog\n\nA blog series by Allen Downey, a curriculum designer at Brilliant, professor emeritus at Olin College, and author of Think Python, Think Bayes, and other books"
-  },
-  {
-    "objectID": "tableau.html#tabloverview",
-    "href": "tableau.html#tabloverview",
-    "title": "7  📊 Tableau",
-    "section": "7.1 Learn Tableau",
-    "text": "7.1 Learn Tableau\n\n7.1.0.1 Tableau for Data Scientists - Video\n\nA (5h 55m) LinkedIn Learning course on how to visualize data in Tableau\n\n\n\n7.1.0.2 Creating Interactive Tableau Dashboards - Video\n\nA (3h 28m) LinkedIn Learning course on how to create interactive dashboards in Tableau\n\n\n\n7.1.0.3 Tableau and R for Analytics Projects - Video\n\nA (2h 27m) LinkedIn Learning course on visualizing data with Tableau and R"
-  },
-  {
-    "objectID": "tableau.html#tab-viz",
-    "href": "tableau.html#tab-viz",
-    "title": "7  📊 Tableau",
-    "section": "7.2 Visualization in Tableau",
-    "text": "7.2 Visualization in Tableau\n\n7.2.0.1 Data Visualization Tips and Tricks - Video\n\nA (2h 14m) LinkedIn Learning course giving guidance on basic data visualization"
-  },
-  {
-    "objectID": "techdoc.html#best-practices",
-    "href": "techdoc.html#best-practices",
-    "title": "8  📑 Technical Documentation",
-    "section": "8.1 Best Practices",
-    "text": "8.1 Best Practices\n\n8.1.0.1 How to name files by Jennifer Bryan of Posit - Video\n\nLow-tech common sense about filenames. The holy trinity is: machine readable, human readable, sorted in a useful way\n\n\n\n8.1.0.2 The Documentation System - Reference\n\nA simple, comprehensive and nearly universally-applicable scheme for writing software documentation\n\n\n\n8.1.0.3 Diátaxis technical documentation system - Reference\n\nThis reference describes an information architecture that emerges from a systematic approach to understanding the needs of documentation users\n\n\n\n8.1.0.4 How To Write a Useful README for Your Next Project - Article\n\nAn article outlining the “must-haves” for any project’s README file"
-  },
-  {
-    "objectID": "techdoc.html#markdown",
-    "href": "techdoc.html#markdown",
-    "title": "8  📑 Technical Documentation",
-    "section": "8.2 Markdown",
-    "text": "8.2 Markdown\n\n8.2.0.1 Getting Started: An overview of Markdown… - Reference\n\nThe Markdown Guide is a comprehensive Markdown reference designed for both novices and experts\n\n\n\n8.2.0.2 John Gruber’s Markdown documentation - Documentation\n\nThe original Markdown documentation, written by the creator of Markdown\n\n\n\n8.2.0.3 Markdown Tutorial - Tutorial\n\nA web-based walk-through of Markdown basics\n\n\n\n8.2.0.4 Awesome Markdown - Reference\n\nA listing of Markdown libraries, services, editors, tools, cheatsheets, etc.\n\n\n\n8.2.0.5 Awesome Quarto - Reference\n\nThe most up to date curated list of Quarto docs, talks, tools, examples & articles the internet has to offer"
-  },
-  {
     "objectID": "citation.html#learn-zotero",
     "href": "citation.html#learn-zotero",
     "title": "1  🔖 Citation Management",
     "section": "1.1 Learn Zotero",
     "text": "1.1 Learn Zotero\n\n1.1.0.1 Zotero Research Guide - Reference\n\nA research guide developed by the University of Michigan Library with guidance on saving, organizing, and automating citation management\n\n\n\n1.1.0.2 Upcoming Sessions from the Teaching and Technology Collaborative - Workshops\n\nA listing of upcoming in-person workshops on citation management and tools from the University of Michigan Library"
+  },
+  {
+    "objectID": "git.html#learn_git",
+    "href": "git.html#learn_git",
+    "title": "2  💾 Git and GitLab",
+    "section": "2.1 Learn Git",
+    "text": "2.1 Learn Git\n\n2.1.0.1 Pro Git book - Book\n\nLearn git at your own pace with the Pro Git Book, managed by the git community\n\n\n\n2.1.0.2 Git Cheatsheet by GitLab - Cheatsheet\n\nQuick reference guide for important Git commands, created by GitLab\n\n\n\n2.1.0.3 Git Cheatsheet by Atlassian - Cheatsheet\n\nA handy git cheat sheet guide to enhance your workflow, created by Atlassian.\n\n\n\n2.1.0.4 Git Cheatsheet by GitHub - Cheatsheet\n\nQuick reference guide for important Git commands, created by GitHub\n\n\n\n2.1.0.5 Getting Git: Git version control software with RStudio - Video\n\nA recorded workshop on Git version control software with RStudio from the University of Michigan Biostatistics department\n\n\n\n2.1.0.6 Using Git with RStudio - Tutorial\n\nQuick reference step-by-step tutorial on setting up git with RStudio\n\n\n\n2.1.0.7 Git Learning Videos - Video\n\nLinks to some basic tutorial videos created by the git maintainer community\n\n\n\n2.1.0.8 Learn Git on the Command Line - Video\n\nA playlist of YouTube videos prepared by Tower, a git client for macOS and Windows"
+  },
+  {
+    "objectID": "git.html#learn_gitlab",
+    "href": "git.html#learn_gitlab",
+    "title": "2  💾 Git and GitLab",
+    "section": "2.2 Learn GitLab",
+    "text": "2.2 Learn GitLab\n\n2.2.0.1 Learn GitLab with Pj: A Walkthrough and Explanation - Video\n\nOverview and walkthrough of GitLab Project basics by a member of the GitLab education team\n\n\n\n2.2.0.2 GitLab Flavored Markdown (GLFM) - Documentation\n\nOverview of styling and syntax for GitLab’s version of Markdown\n\n\n\n2.2.0.3 Use the left sidebar to navigate GitLab - Tutorial\n\nA walk-through of GitLab’s navigation in the left-hand sidebar\n\n\n\n2.2.0.4 Learning GitLab - Video\n\nA (1h 3m) LinkedIn Learning tutorial with an overview of basic GitLab UI and functionality"
+  },
+  {
+    "objectID": "git.html#learn_vcontrol",
+    "href": "git.html#learn_vcontrol",
+    "title": "2  💾 Git and GitLab",
+    "section": "2.3 Learn Version Control and Source Code Management",
+    "text": "2.3 Learn Version Control and Source Code Management\n\n2.3.0.1 What is Version Control? [Learn Git Video Course] - Video\n\nA short video reviewing the basics of version control and why to use it\n\n\n\n2.3.0.2 GitLab Branching Strategy | GitLab Flow Tutorial Part 1 - Video\n\nA (15 min) tutorial discussing GitLab Flow and a conceptual overview of strategies for working with Git"
+  },
+  {
+    "objectID": "m365.html#apps",
+    "href": "m365.html#apps",
+    "title": "3  📰 Microsoft 365",
+    "section": "3.1 Apps Overview",
+    "text": "3.1 Apps Overview\n\n3.1.0.1 Describe productivity solutions of Microsoft 365 - Module\n\nLearn about how the productivity solutions through Microsoft 365 help optimize operations, enhance content creation, and empower people to perform tasks in real-time from virtually anywhere"
+  },
+  {
+    "objectID": "m365.html#auto",
+    "href": "m365.html#auto",
+    "title": "3  📰 Microsoft 365",
+    "section": "3.2 Automation",
+    "text": "3.2 Automation\n\n3.2.0.1 Learning Power Automate Desktop for Developers - Video\n\nA (1h 45m) introductory course on getting started with Power Automate Desktop."
+  },
+  {
+    "objectID": "m365.html#data-man",
+    "href": "m365.html#data-man",
+    "title": "3  📰 Microsoft 365",
+    "section": "3.3 Data Management",
+    "text": "3.3 Data Management\n\n3.3.0.1 Managing Data with Microsoft 365 - Video\n\nA (1h 3m) overview course on managing data with Microsoft Forms, Excel, Power Automate, and Power BI"
+  },
+  {
+    "objectID": "m365.html#gantt",
+    "href": "m365.html#gantt",
+    "title": "3  📰 Microsoft 365",
+    "section": "3.4 Gantt",
+    "text": "3.4 Gantt\n\n3.4.0.1 Present your data in a Gantt chart in Excel - Tutorial\n\nMicrosoft 365 subscription offers premium Gantt chart templates designed to help you track project tasks with visual reminders and color-coded categories\n\n\n\n3.4.0.2 Get organized with Gantt chart templates - Templates\n\nA listing of Gantt chart templates for Excel\n\n\n\n3.4.0.3 Use a wizard to create a Gantt Chart - Tutorial\n\nSpecific to Microsoft Project, which includes a wizard to walk through the creation of a Gantt chart\n\n\n\n3.4.0.4 Building a Gantt Chart using Power BI - Tutorial\n\nA step-by-step guide on loading an excel sheet into Power BI to create a Gantt chart\n\n\n\n3.4.0.5 Set up a basic Gantt chart in Excel - Video\n\nA 10 minute video walking through the process of a setting up a Gantt chart using Excel\n\n\n\n3.4.0.6 Using Excel for Gantt charts: My top 10 tips - Video\n\nA quick 4 minute video with pro tips on using Excel for Gantt charts"
+  },
+  {
+    "objectID": "m365.html#proj-man",
+    "href": "m365.html#proj-man",
+    "title": "3  📰 Microsoft 365",
+    "section": "3.5 Project Management",
+    "text": "3.5 Project Management\n\n3.5.0.1 Managing Projects with Microsoft 365 - Video\n\nA (49m) overview course on managing project using Microsoft Lists, Planner, and Project"
+  },
+  {
+    "objectID": "python.html#learn-python",
+    "href": "python.html#learn-python",
+    "title": "4  🐍 Python",
+    "section": "4.1 Learn Python",
+    "text": "4.1 Learn Python\n\n4.1.0.1 PEP 8 – Style Guide for Python Code - Documentation\n\nThis document gives coding conventions for the Python code comprising the standard library in the main Python distribution\n\n\n\n4.1.0.2 Python Tutor - Tutorial\n\nThe Python Tutor is a unique step-by-step visual debugger and AI tutor to help you understand and debug code\n\n\n\n4.1.0.3 Python for Everybody\n\nThis web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python\n\n\n\n4.1.0.4 Python Virtual Environments - Tutorial\n\nA quick guide for setting up Python virtual environments on macOS and Windows 10\n\n\n\n4.1.0.5 Fluent Python - Textbook\n\nA hands-on guide walking through how to write effective, modern Python 3 code by leveraging its core language features and libraries\n\n\n\n4.1.0.6 pandas Documentation - Documentation\n\npandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language\n\n\n\n4.1.0.7 Think Python: How to Think Like a Computer Scientist - Textbook\n\nA textbook that teaches Python through the lens of a computer scientist, utilizing the best features from mathematics, engineering, and natural science"
+  },
+  {
+    "objectID": "python.html#py-datasci",
+    "href": "python.html#py-datasci",
+    "title": "4  🐍 Python",
+    "section": "4.2 Python for Data Science",
+    "text": "4.2 Python for Data Science\n\n4.2.0.1 Data Analysis with Pandas and Python - Textbook\n\nA text that introduces you to the popular Pandas library built on top of the Python programming language\n\n\n\n4.2.0.2 Python for Data Analysis, 3rd Edition - Textbook\n\nA definitive handbook for manipulating, processing, cleaning, and crunching datasets in Python\n\n\n\n4.2.0.3 Pandas for Everyone: Python Data Analysis, 2nd Edition - Textbook\n\nA text providing practical knowledge and insight for solving real problems with pandas, even for those new to Python data analysis\n\n\n\n4.2.0.4 Python Data Science Handbook, 2nd Edition - Textbook\n\nA handbook for scientific computing in Python that highlights the data science stack - IPython, NumPy, pandas, Matplotlib, Scikit-Learn, and other related tools"
+  },
+  {
+    "objectID": "rstud.html#intro",
+    "href": "rstud.html#intro",
+    "title": "5  📈 R and RStudio",
+    "section": "5.1 Introduction to R",
+    "text": "5.1 Introduction to R\n\n5.1.0.1 Base R Cheat Sheet from Posit - Cheatsheet\n\nA quick reference guide (downloadable pdf) of basic syntax and functionality in R\n\n\n\n5.1.0.2 R for Data Science: Analysis and Visualization - Video\n\nAn introducty LinkedIn Learning course (2h 46m) on the basics of getting started with R for data visualization, wrangling, and analysis\n\n\n\n5.1.0.3 Quick-R - Reference\n\nSite containing a broad overview of R resources for learning R created by a statistical consultant and research methodologist\n\n\n\n5.1.0.4 Introduction to R and RStudio - Video\n\nA recorded workshop on workflow basics, scripts, and projects from the University of Michigan Biostatistics department\n\n\n\n5.1.0.5 R Essential Training: Wrangling and Visualizing Data - Video\n\nAn introductory LinkedIn Learning course (4h 18m) on the essential tools for importing visualizing, and wrangling data in R\n\n\n\n5.1.0.6 Big Book of R - Reference\n\nA listing of over 300 Reference books on the R programming language\n\n\n\n5.1.0.7 Tidy design principles - Book\n\nStill under development, this book identifies challenges and patterns to help you write better R code. There is also a related Tidy Design Princiles blog/newsletter that the author is maintaining during the writing process\n\n\n\n5.1.0.8 The tidyverse style guide - Book\n\nA site that site describes the style used throughout the tidyverse, written by Hadley Wickham of Posit"
+  },
+  {
+    "objectID": "rstud.html#r-ds",
+    "href": "rstud.html#r-ds",
+    "title": "5  📈 R and RStudio",
+    "section": "5.2 R and Data Science",
+    "text": "5.2 R and Data Science\n\n5.2.0.1 R for Data Science (2e) - Textbook\n\nFREE 2nd edition of “R for Data Science” which provides practical skills for data science, including data importation, data structuring, data transformation, and data visualization\n\n\n\n5.2.0.2 Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Textbook\n\nThe companion website to Chester Ismay and Albert Y. Kim’s introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse\n\n\n\n5.2.0.3 The Quartz Guide to Bad Data - Reference\n\nThis guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data.\n\n\n\n5.2.0.4 R Screencasts - Video\n\nLive data analysis screencasts from a top Data Scientist, David Robinson\n\n\n\n5.2.0.5 Tools for Analyzing R Code the Tidy Way - Article\n\nAn article on two packages, matahari and tidycode, written to analyze R code in a tidy manner\n\n\n\n5.2.0.6 Tidy Modeling with R - Textbook\n\nA guide to using a collection of software in the R programming language for model building called tidymodels"
+  },
+  {
+    "objectID": "rstud.html#r-mark",
+    "href": "rstud.html#r-mark",
+    "title": "5  📈 R and RStudio",
+    "section": "5.3 R Markdown",
+    "text": "5.3 R Markdown\n\n5.3.0.1 R Markdown Cookbook - Textbook\n\nThis book is broken down into small “recipes” that aim to demonstrate a single R Markdown concept at a time. \n\n\n\n5.3.0.2 R Markdown: The Definitive Guide - Reference\n\nThis book is a definitive reference guide to the R Markdown language"
+  },
+  {
+    "objectID": "rstud.html#r-pack",
+    "href": "rstud.html#r-pack",
+    "title": "5  📈 R and RStudio",
+    "section": "5.4 R Packages",
+    "text": "5.4 R Packages\n\n5.4.0.1 Quick list of useful R packages - Reference\n\nA categorized list of recommended free libraries of code written by the active user community\n\n\n\n5.4.0.2 CRAN Task Views - Reference\n\nComprehensive R Archive Network (CRAN)’s listing of packages by topic area or “task”, i.e. Bayesian, ClinicalTrials, MachineLearning, MissingData, etc\n\n\n\n5.4.0.3 ggplot2 Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the data visualization ggplot2 package, including a downloadable pdf\n\n\n\n5.4.0.4 rmarkdown Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the authoring framework rmarkdown, including a downloadable pdf\n\n\n\n5.4.0.5 tidyverse Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the data science packages that comprise the tidyverse, including a downloadable pdf\n\n\n\n5.4.0.6 dplyr Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the data manipulation dplyr package, including a downloadable pdf\n\n\n\n5.4.0.7 tidyr Cheatsheet by Posit - Cheatsheet\n\nA quick reference guide for basic syntax and functionality of the data cleaning tidyr package, including a downloadable pdf\n\n\n\n5.4.0.8 Using Python with RStudio and reticulate - Video\n\nThis tutorial walks through the steps to enable data scientists to use RStudio and the reticulate package to call their Python code from Shiny apps, R Markdown notebooks, and Plumber REST APIs\n\n\n\n5.4.0.9 htmlwidget- Documentation\n\nA package for creating JavaScript data visualizations in R\n\n\n\n5.4.0.10 reprex - Documentation\n\nAn R package for preparing reproducible examples of R code"
+  },
+  {
+    "objectID": "rstud.html#pack",
+    "href": "rstud.html#pack",
+    "title": "5  📈 R and RStudio",
+    "section": "5.5 Write Your Own R Package",
+    "text": "5.5 Write Your Own R Package\n\n5.5.0.1 Reproducible research with R, RStudio and GitLab - Documentation\n\nA manual describing easy reproducibility and collaboration with R and Git\n\n\n\n5.5.0.2 Instructions for Creating Your Own R Package - Article\n\nAn article with a step-by-step guide to creating your own R package\n\n\n\n5.5.0.3 Writing R Packages in RStudio - Tutorial\n\nA tutorial walking through the set up of a basic R package that can be installed from GitHub\n\n\n\n5.5.0.4 Making Your First R Package - Blog\n\nA blog entry that walks through the steps of organizing code in a package with consistent documentation\n\n\n\n5.5.0.5 The Package: learning how to build an R package - Blog\n\nA blog entry from R-Bloggers that walks through the process of setting up an R package\n\n\n\n5.5.0.6 Writing an R package from scratch - Blog\n\nA blog entry from Hilary Parker of Etsy on setting up your first R package from scratch\n\n\n\n5.5.0.7 CRAN documentation on Creating R packages - Reference\n\nOriginal documentation on how to create an R package from the Comprehensive R Archive Network (CRAN)\n\n\n\n5.5.0.8 How to write your own R package and publish it on CRAN - Tutorial\n\nA blog tutorial on writing and publishing R packages\n\n\n\n5.5.0.9 R Packages (2e) - Textbook\n\nLearn how to create a package, the fundamental unit of shareable, reusable, and reproducible R code from Hadley Wickham and Jennifer Bryan of Posit"
+  },
+  {
+    "objectID": "rstud.html#r-viz",
+    "href": "rstud.html#r-viz",
+    "title": "5  📈 R and RStudio",
+    "section": "5.6 Visualization in R",
+    "text": "5.6 Visualization in R\n\n5.6.0.1 The R Graph Gallery - Reference\n\nA collection of R’s available chart types listed by purpose, and including guidance on required packages and syntax\n\n\n\n5.6.0.2 Data Visualization in R With ggplot2 - Video\n\nA video course on how to create great looking, insightful data visualizations using the R package, ggplot2\n\n\n\n5.6.0.3 Color in Data Vis - Blog\n\nA feed of blog entries on the selection of beautiful, legible colors in data visualization, charts, and maps"
+  },
+  {
+    "objectID": "rstud.html#r-wrangle",
+    "href": "rstud.html#r-wrangle",
+    "title": "5  📈 R and RStudio",
+    "section": "5.7 Data Wrangling in R",
+    "text": "5.7 Data Wrangling in R\n\n5.7.0.1 Data Wrangling with R - Textbook\n\nA text for all levels of R programmers, covering the various data wrangling packages: dplyr, tidyr, httr, stringr, lubridate, readr, rvest, magrittr, xlsx, readxl, and others\n\n\n\n5.7.0.2 Data Wrangling in R - Video\n\nA (2h 51m) LinkedIn Learning course that provides an overview of data wrangling techniques for cleaning and transforming data\n\n\n\n5.7.0.3 Introduction to the Tidyverse - Video\n\nA recorded workshop on the tidyverse and visualizing data in ggplot2 from the University of Michigan Biostatistics department\n\n\n\n5.7.0.4 Learning the R Tidyverse - Video\n\nA (3h 50m) LinkedIn Learning course walking through the tidyverse approach to data science"
+  },
+  {
+    "objectID": "rstud.html#prog-r",
+    "href": "rstud.html#prog-r",
+    "title": "5  📈 R and RStudio",
+    "section": "5.8 Programming in R",
+    "text": "5.8 Programming in R\n\n5.8.0.1 Introduction to Programming in R - Video\n\nA recorded workshop on functions, vectors, and iteration in R from the University of Michigan Biostatistics department\n\n\n\n5.8.0.2 Efficient R Programming - Textbook\n\nA textbook for all skill levels on making R code faster, more efficient, and scalable\n\n\n\n5.8.0.3 Hands-On Programming with R - Textbook\n\nThis book will teach you how to program in R, with hands-on examples.\n\n\n\n5.8.0.4 Advanced R - Textbook\n\nAn advanced textbook on metaprogramming or the idea that code is data that can be inspected and modified programmatically\n\n\n\n5.8.0.5 R Programming for Data Science - Textbook\n\nThis book is about the fundamentals of R programming. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox."
+  },
+  {
+    "objectID": "regex.html#regex-overview",
+    "href": "regex.html#regex-overview",
+    "title": "6  ❗❗ Regular Expressions",
+    "section": "6.1 Learn Regex",
+    "text": "6.1 Learn Regex\n\n6.1.0.1 Regex101 - Tool\n\nHelpful online tool for learning, building, and matching regular expressions to a test string\n\n\n\n6.1.0.2 RegExr - Tool\n\nHelpful online tool for learning, building, and matching regular expressions to a test string\n\n\n\n6.1.0.3 RegexOne - Tutorial\n\nAn interactive tutorial with simple exercises for learning regular expressions\n\n\n\n6.1.0.4 RegexLearn - Tutorial\n\nA step-by-step tutorial for practicing regular expressions\n\n\n\n6.1.0.5 RegexLearn Cheatsheet - Cheatsheet\n\nQuick reference guide for regex syntax\n\n\n\n6.1.0.6 Learning Regular Expressions - Video\n\nA (3h 18m) LinkedIn Learning course with a broad overview of regular expressions"
+  },
+  {
+    "objectID": "stats.html#statistical-techniques",
+    "href": "stats.html#statistical-techniques",
+    "title": "7  🔢 Statistics",
+    "section": "7.1 Statistical Techniques",
+    "text": "7.1 Statistical Techniques\n\n7.1.0.1 Institute for Social Research (ISR) Population Dynamics and Health Program Workshops - Video\n\nA listing of past virtual workshops on various statistical techniques\n\n\n\n7.1.0.2 Consulting for Statistics, Computing, & Analytics Research (CSCAR) Workshops - Events\n\nA listing of upcoming in-person workshops on various statistical techniques\n\n\n\n7.1.0.3 Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Textbook\n\nThe companion website to Chester Ismay and Albert Y. Kim’s introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse\n\n\n\n7.1.0.4 Statistics Course for Data Science - Video\n\nThe Statistics for Data Science Course covers statistical concepts taught in many intro and intermediate statistics courses in universities and colleges\n\n\n\n7.1.0.5 Think Stats: Exploratory Data Analysis in Python - Textbook\n\nThis text is an introduction to the practical tools of exploratory data analysis\n\n\n\n7.1.0.6 Probably Overthinking It: Data Science and Bayesian Statistics - Blog\n\nA blog series by Allen Downey, a curriculum designer at Brilliant, professor emeritus at Olin College, and author of Think Python, Think Bayes, and other books"
+  },
+  {
+    "objectID": "tableau.html#tabloverview",
+    "href": "tableau.html#tabloverview",
+    "title": "8  📊 Tableau",
+    "section": "8.1 Learn Tableau",
+    "text": "8.1 Learn Tableau\n\n8.1.0.1 Tableau for Data Scientists - Video\n\nA (5h 55m) LinkedIn Learning course on how to visualize data in Tableau\n\n\n\n8.1.0.2 Creating Interactive Tableau Dashboards - Video\n\nA (3h 28m) LinkedIn Learning course on how to create interactive dashboards in Tableau\n\n\n\n8.1.0.3 Tableau and R for Analytics Projects - Video\n\nA (2h 27m) LinkedIn Learning course on visualizing data with Tableau and R"
+  },
+  {
+    "objectID": "tableau.html#tab-viz",
+    "href": "tableau.html#tab-viz",
+    "title": "8  📊 Tableau",
+    "section": "8.2 Visualization in Tableau",
+    "text": "8.2 Visualization in Tableau\n\n8.2.0.1 Data Visualization Tips and Tricks - Video\n\nA (2h 14m) LinkedIn Learning course giving guidance on basic data visualization"
+  },
+  {
+    "objectID": "techdoc.html#best-practices",
+    "href": "techdoc.html#best-practices",
+    "title": "9  📑 Technical Documentation",
+    "section": "9.1 Best Practices",
+    "text": "9.1 Best Practices\n\n9.1.0.1 How to name files by Jennifer Bryan of Posit - Video\n\nLow-tech common sense about filenames. The holy trinity is: machine readable, human readable, sorted in a useful way\n\n\n\n9.1.0.2 The Documentation System - Reference\n\nA simple, comprehensive and nearly universally-applicable scheme for writing software documentation\n\n\n\n9.1.0.3 Diátaxis technical documentation system - Reference\n\nThis reference describes an information architecture that emerges from a systematic approach to understanding the needs of documentation users\n\n\n\n9.1.0.4 How To Write a Useful README for Your Next Project - Article\n\nAn article outlining the “must-haves” for any project’s README file"
+  },
+  {
+    "objectID": "techdoc.html#markdown",
+    "href": "techdoc.html#markdown",
+    "title": "9  📑 Technical Documentation",
+    "section": "9.2 Markdown",
+    "text": "9.2 Markdown\n\n9.2.0.1 Getting Started: An overview of Markdown… - Reference\n\nThe Markdown Guide is a comprehensive Markdown reference designed for both novices and experts\n\n\n\n9.2.0.2 John Gruber’s Markdown documentation - Documentation\n\nThe original Markdown documentation, written by the creator of Markdown\n\n\n\n9.2.0.3 Markdown Tutorial - Tutorial\n\nA web-based walk-through of Markdown basics\n\n\n\n9.2.0.4 Awesome Markdown - Reference\n\nA listing of Markdown libraries, services, editors, tools, cheatsheets, etc.\n\n\n\n9.2.0.5 Awesome Quarto - Reference\n\nThe most up to date curated list of Quarto docs, talks, tools, examples & articles the internet has to offer"
   }
 ]
