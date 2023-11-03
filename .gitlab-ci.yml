@@ -18,7 +18,7 @@ deploy:
   script:
     # Publish your Quarto book using the Quarto CLI
     - quarto install tinytex #install tinytext for publishing to quarto-pub
-    - quarto publish --no-prompt --no-browser --token $QUARTO_PUB_AUTH_TOKEN quarto-pub #publish to quarto pub
+    - quarto publish --token $QUARTO_PUB_AUTH_TOKEN quarto-pub #publish to quarto pub
   only:
     - main  # Deploy only when changes are pushed to the master branch
   tags:
