@@ -2,7 +2,9 @@ stages:
   - deploy
 
 before_script:
-  - curl -L https://github.com/quarto-dev/quarto-cli/releases/latest/download/install.sh | sh
+  - /bin/bash
+  - apt-get update && apt-get install -y curl
+  - curl -L https://github.com/quarto-dev/quarto-cli/releases/latest/download/install.sh
   
 variables:
   QUARTO_PUBLISH_TOKEN: $QUARTO_PUB_AUTH_TOKEN  # Set this variable in GitLab CI/CD settings
