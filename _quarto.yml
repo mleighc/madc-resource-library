@@ -16,6 +16,7 @@ book:
     - stats.qmd
     - tableau.qmd
     - techdoc.qmd
+  downloads: pdf
     
 cover-image: cover.png
 

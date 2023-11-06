@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "MADC Learning Resource Library",
     "section": "",
-    "text": "📚 Resource Library\nCompiled by members of the Michigan Alzheimer’s Disease Center’s (MADC) Data Core, this site contains a growing list of resources for current and newly on-boarded staff to build technical skills supporting the MADC’s day-to-day work.\nIf you would like to make suggestions of resources to include or provide other feedback to the team, please contact Miranda."
+    "text": "📚 Resource Library\nCompiled by members of the Michigan Alzheimer’s Disease Center’s (MADC) Data Core, this site contains a growing list of resources for current and newly on-boarded staff to build technical skills supporting the MADC’s day-to-day work.\nIf you would like to make suggestions of resources to include or provide other feedback related to this library, please submit this form. The team will review your feedback and suggestions and update the library, as needed."
   },
   {
     "objectID": "citation.html#learn-zotero",
     "href": "citation.html#learn-zotero",
     "title": "1  🔖 Citation Management",
     "section": "1.1 Learn Zotero",
-    "text": "1.1 Learn Zotero\n\n1.1.0.1 Zotero Research Guide - Reference\n\nA research guide developed by the University of Michigan Library with guidance on saving, organizing, and automating citation management\n\n\n\n1.1.0.2 Upcoming Sessions from the Teaching and Technology Collaborative - Workshops\n\nA listing of upcoming in-person workshops on citation management and tools from the University of Michigan Library"
+    "text": "1.1 Learn Zotero\n\n1.1.0.1 Zotero Quick-Start Guide - Documentation\n\nAn overview of Zotero’s features and capabilities from the Zotero team\n\n\n\n1.1.0.2 Zotero Research Guide - Reference\n\nA research guide developed by the University of Michigan Library with guidance on saving, organizing, and automating citation management\n\n\n\n1.1.0.3 How To Use Zotero (A Complete Beginner’s Guide) - Video\n\nA (12 min) tutorial on how to use Zotero for beginners\n\n\n\n1.1.0.4 Upcoming Sessions from the Teaching and Technology Collaborative - Workshops\n\nA listing of upcoming in-person workshops on citation management and research tools from the University of Michigan Library"
   },
   {
     "objectID": "git.html#learn_git",
@@ -67,7 +67,7 @@
     "href": "m365.html#proj-man",
     "title": "3  📰 Microsoft 365",
     "section": "3.5 Project Management",
-    "text": "3.5 Project Management\n\n3.5.0.1 Managing Projects with Microsoft 365 - Video\n\nA (49m) overview course on managing project using Microsoft Lists, Planner, and Project"
+    "text": "3.5 Project Management\n\n3.5.0.1 Managing Projects with Microsoft 365 - Video\n\nA (49m) overview course on managing project using Microsoft Lists, Planner, and Project\n\n\n\n3.5.0.2 Microsoft Planner Essential Training - Video\n\nA (1h 27m) Linkedin Learning course on the essential features of Microsoft Planner"
   },
   {
     "objectID": "python.html#learn-python",
@@ -151,14 +151,14 @@
     "href": "stats.html#statistical-techniques",
     "title": "7  🔢 Statistics",
     "section": "7.1 Statistical Techniques",
-    "text": "7.1 Statistical Techniques\n\n7.1.0.1 Institute for Social Research (ISR) Population Dynamics and Health Program Workshops - Video\n\nA listing of past virtual workshops on various statistical techniques\n\n\n\n7.1.0.2 Consulting for Statistics, Computing, & Analytics Research (CSCAR) Workshops - Events\n\nA listing of upcoming in-person workshops on various statistical techniques\n\n\n\n7.1.0.3 Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Textbook\n\nThe companion website to Chester Ismay and Albert Y. Kim’s introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse\n\n\n\n7.1.0.4 Statistics Course for Data Science - Video\n\nThe Statistics for Data Science Course covers statistical concepts taught in many intro and intermediate statistics courses in universities and colleges\n\n\n\n7.1.0.5 Think Stats: Exploratory Data Analysis in Python - Textbook\n\nThis text is an introduction to the practical tools of exploratory data analysis\n\n\n\n7.1.0.6 Probably Overthinking It: Data Science and Bayesian Statistics - Blog\n\nA blog series by Allen Downey, a curriculum designer at Brilliant, professor emeritus at Olin College, and author of Think Python, Think Bayes, and other books"
+    "text": "7.1 Statistical Techniques\n\n7.1.0.1 Institute for Social Research (ISR) Population Dynamics and Health Program Workshops - Video\n\nA listing of past virtual workshops on various statistical techniques\n\n\n\n7.1.0.2 Consulting for Statistics, Computing, & Analytics Research (CSCAR) Workshops - Events\n\nA listing of upcoming in-person workshops on various statistical techniques\n\n\n\n7.1.0.3 Statistical Inference via Data Science: A ModernDive into R and the Tidyverse - Textbook\n\nThe companion website to Chester Ismay and Albert Y. Kim’s introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse\n\n\n\n7.1.0.4 Statistics Course for Data Science - Video\n\nThe Statistics for Data Science Course covers statistical concepts taught in many intro and intermediate statistics courses in universities and colleges\n\n\n\n7.1.0.5 Think Stats: Exploratory Data Analysis in Python - Textbook\n\nThis text is an introduction to the practical tools of exploratory data analysis\n\n\n\n7.1.0.6 Probably Overthinking It: Data Science and Bayesian Statistics - Blog\n\nA blog series by Allen Downey, a curriculum designer at Brilliant, professor emeritus at Olin College, and author of Think Python, Think Bayes, and other books\n\n\n\n7.1.0.7 50 years of Data Science - Article\n\nAn article based on a presentation from the 2015 Tukey Centennial workshop reviewing the last 50 years of Data Science and its emergence from the fields of statistics and machine learning"
   },
   {
     "objectID": "tableau.html#tabloverview",
     "href": "tableau.html#tabloverview",
     "title": "8  📊 Tableau",
     "section": "8.1 Learn Tableau",
-    "text": "8.1 Learn Tableau\n\n8.1.0.1 Tableau for Data Scientists - Video\n\nA (5h 55m) LinkedIn Learning course on how to visualize data in Tableau\n\n\n\n8.1.0.2 Creating Interactive Tableau Dashboards - Video\n\nA (3h 28m) LinkedIn Learning course on how to create interactive dashboards in Tableau\n\n\n\n8.1.0.3 Tableau and R for Analytics Projects - Video\n\nA (2h 27m) LinkedIn Learning course on visualizing data with Tableau and R"
+    "text": "8.1 Learn Tableau\n\n8.1.0.1 Tableau for Data Scientists - Video\n\nA (5h 55m) LinkedIn Learning course on how to visualize data in Tableau\n\n\n\n8.1.0.2 Creating Interactive Tableau Dashboards - Video\n\nA (3h 28m) LinkedIn Learning course on how to create interactive dashboards in Tableau\n\n\n\n8.1.0.3 Tableau and R for Analytics Projects - Video\n\nA (2h 27m) LinkedIn Learning course on visualizing data with Tableau and R\n\n\n\n8.1.0.4 IT4U91: 50 Tableau Tips - Video\n\nA (40m) video on techniques and tips for building Tableau visualizations from the University of Michigan’s ITS department\n\n\n\n8.1.0.5 IT4U79: Tiled Dashboards Design in Tableau - Video\n\nA (43m) video on building a dashboard layout in Tableau by the University of Michigan’s ITS department"
   },
   {
     "objectID": "tableau.html#tab-viz",
