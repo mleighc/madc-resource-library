@@ -40,6 +40,6 @@
 
 > The most up to date curated list of Quarto docs, talks, tools, examples & articles the internet has to offer
 
-#### [**23 RStudio Tips, Tricks, and Shortcuts**](https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/) **- Blog**
+#### [**R Markdown Tips, Tricks, and Shortcuts**](https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/) **- Blog**
 
-> A blog post covering some of the best features of RStudio with a list of tips, tricks, and shortcuts
+> A blog post with some helpful tips and tricks for working with R Markdown in RStudio
