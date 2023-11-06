@@ -34,6 +34,10 @@
 
 > A site that site describes the style used throughout the tidyverse, written by Hadley Wickham of Posit
 
+#### [**23 RStudio Tips, Tricks, and Shortcuts**](https://www.dataquest.io/blog/rstudio-tips-tricks-shortcuts/) **- Blog**
+
+> A blog post covering some of the best features of RStudio with a list of tips, tricks, and shortcuts
+
 ## R and Data Science {#r-ds}
 
 #### [**R for Data Science (2e)**](https://r4ds.hadley.nz/) **- Textbook**
@@ -69,6 +73,10 @@
 #### [**R Markdown: The Definitive Guide**](https://bookdown.org/yihui/rmarkdown/) **- Reference**
 
 > This book is a definitive reference guide to the R Markdown language
+
+#### [**R Markdown Tips, Tricks, and Shortcuts**](https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/) **- Blog**
+
+> A blog post with some helpful tips and tricks for working with R Markdown in RStudio
 
 ## R Packages {#r-pack}
 
