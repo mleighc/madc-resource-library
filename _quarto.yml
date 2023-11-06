@@ -5,7 +5,6 @@ book:
   title: "MADC Learning Resource Library"
   author: "Miranda Cooper, Data Analyst / Programmer"
   date: "10/12/2023"
-  original-date: "10/12/2023"
   chapters:
     - index.qmd
     - citation.qmd
@@ -25,6 +24,7 @@ cover-image: cover.png
 format:
   html:
     theme: cosmo
+    date-modified: today
   pdf:
     documentclass: scrreprt
 
