@@ -34,6 +34,18 @@
 
 > A playlist of YouTube videos prepared by Tower, a git client for macOS and Windows
 
+#### [**Version Control with Git**](https://swcarpentry.github.io/git-novice/index.html) **- Course**
+
+> An online beginner course, developed by [Software Carpentry](https://software-carpentry.org/about/), teaching the basics of version control with Git
+
+#### [**Interactive Git Cheatsheet**](https://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;) **- Cheatsheet**
+
+> An interactive Git Cheatsheet, developed by NDP Software, that visually represents git commands and states
+
+#### [**Confusing git terminology**](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_460#commit) **- Blog**
+
+> A blog entry from [Julia Evans](https://jvns.ca/about/), a software developer, which walks through various git terms that tend to confuse users
+
 ## Learn GitLab {#learn_gitlab}
 
 #### [**Learn GitLab with Pj: A Walkthrough and Explanation**](https://youtu.be/-oaI2WEKdI4?si=1MZ0YMiq4-yWd0AZ) **- Video**

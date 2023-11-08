@@ -2,6 +2,14 @@
 
 ## Introduction to R {#intro}
 
+#### [**Programming with R**](https://swcarpentry.github.io/r-novice-inflammation/) **- Course**
+
+> An online beginner course, developed by [Software Carpentry](https://software-carpentry.org/about/), introducing the basics of R programming through data analysis
+
+#### [**R for Reproducible Scientific Analysis**](https://swcarpentry.github.io/r-novice-gapminder/) **- Course**
+
+> An online beginner course, developed by [Software Carpentry](https://software-carpentry.org/about/), introducing the basics of R programming through analysis of the gapminder data
+
 #### [**Base R Cheat Sheet from Posit**](https://posit.co/wp-content/uploads/2022/10/base-r.pdf) **- Cheatsheet**
 
 > A quick reference guide (downloadable pdf) of basic syntax and functionality in R
@@ -138,7 +146,7 @@
 
 > A blog entry that walks through the steps of organizing code in a package with consistent documentation
 
-#### [**The Package: learning how to build an R package**](r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/) **- Blog**
+#### [**The Package**](https://www.r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/)[**: learning how to build an R package**](r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/) **- Blog**
 
 > A blog entry from R-Bloggers that walks through the process of setting up an R package
 
@@ -174,7 +182,7 @@
 
 ## Data Wrangling in R {#r-wrangle}
 
-#### [**Data Wrangling with R**](https://link.springer.com/book/10.1007/978-3-319-45599-0) **- Textbook**
+#### [**Data Wrangling with R**](https://link.springer.com/book/10.1007/978-3-319-45599-0#:~:text=PDF-,Introduction,-Front%20Matter) **- Textbook**
 
 > A text for all levels of R programmers, covering the various data wrangling packages: dplyr, tidyr, httr, stringr, lubridate, readr, rvest, magrittr, xlsx, readxl, and others
 
