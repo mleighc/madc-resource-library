@@ -146,7 +146,7 @@
 
 > A blog entry that walks through the steps of organizing code in a package with consistent documentation
 
-#### [**The Package**](https://www.r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/)[**: learning how to build an R package**](r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/) **- Blog**
+#### [**The Package**](https://www.r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/)[**: learning how to build an R package**](https://www.r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/) **- Blog**
 
 > A blog entry from R-Bloggers that walks through the process of setting up an R package
 
