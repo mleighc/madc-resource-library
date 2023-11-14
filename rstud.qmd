@@ -146,7 +146,7 @@
 
 > A blog entry that walks through the steps of organizing code in a package with consistent documentation
 
-#### [**The Package**](https://www.r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/)[**: learning how to build an R package**](https://www.r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/) **- Blog**
+#### [**The Package: learning how to build an R package**](https://www.r-bloggers.com/2022/09/the-package-learning-how-to-build-an-r-package/) **- Blog**
 
 > A blog entry from R-Bloggers that walks through the process of setting up an R package
 
@@ -179,6 +179,10 @@
 #### [**Color in Data Vis**](https://blog.datawrapper.de/category/color-in-data-vis/) **- Blog**
 
 > A feed of blog entries on the selection of beautiful, legible colors in data visualization, charts, and maps
+
+#### [**Exciting Data Visualizations with ggplot2 Extensions**](https://www.youtube.com/watch?v=ngkhOhp5qU4&t=609s) **- Video**
+
+> A (1h 28m) presentation, by [Cédric Scherer](https://www.cedricscherer.com/), diving into the world of data visualization and the art of creating engaging and effective data graphics with ggplot2
 
 ## Data Wrangling in R {#r-wrangle}
 
