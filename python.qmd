@@ -1,63 +1,65 @@
+**Skill Level**: ⭐ Beginner --- ⭐⭐ Intermediate --- ⭐⭐⭐ Advanced
+
 # 🐍 Python
 
 ## Learn Python {#learn-python}
 
-#### [**PEP 8 -- Style Guide for Python Code**](https://peps.python.org/pep-0008/) **- Documentation**
+#### [**PEP 8 -- Style Guide for Python Code**](https://peps.python.org/pep-0008/) **- Documentation** ⭐⭐
 
 > This document gives coding conventions for the Python code comprising the standard library in the main Python distribution
 
-#### [**Python Tutor**](https://pythontutor.com/python-compiler.html#mode=edit) **- Tutorial**
+#### [**Python Tutor**](https://pythontutor.com/python-compiler.html#mode=edit) **- Tutorial** ⭐
 
 > The Python Tutor is a unique step-by-step visual debugger and AI tutor to help you understand and debug code
 
-#### [**Python for Everybody**](https://www.py4e.com/)
+#### [**Python for Everybody**](https://www.py4e.com/)⭐
 
 > This web site is building a set of free [materials](https://www.py4e.com/lessons), [lectures](https://www.youtube.com/watch?v=UjeNA_JtXME&list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p&index=1), [book](https://www.py4e.com/book.php) and assignments to help students learn how to program in Python
 
-#### [**Python Virtual Environments**](https://si506.org/guides/python_virtual_env/) **- Tutorial**
+#### [**Python Virtual Environments**](https://si506.org/guides/python_virtual_env/) **- Tutorial** ⭐
 
 > A quick guide for setting up Python virtual environments on macOS and Windows 10
 
-#### [**Fluent Python**](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/) **- Textbook**
+#### [**Fluent Python**](https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/) **- Textbook** ⭐⭐
 
 > A hands-on guide walking through how to write effective, modern Python 3 code by leveraging its core language features and libraries
 
-#### [**pandas Documentation**](https://pandas.pydata.org/docs/) **- Documentation**
+#### [**pandas Documentation**](https://pandas.pydata.org/docs/) **- Documentation** ⭐⭐
 
 > pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
 
-#### [**Think Python: How to Think Like a Computer Scientist**](https://greenteapress.com/thinkpython2/thinkpython2.pdf) **- Textbook**
+#### [**Think Python: How to Think Like a Computer Scientist**](https://greenteapress.com/thinkpython2/thinkpython2.pdf) **- Textbook** ⭐⭐
 
 > A textbook that teaches Python through the lens of a computer scientist, utilizing the best features from mathematics, engineering, and natural science
 
-#### [**Programming with Python**](https://swcarpentry.github.io/python-novice-inflammation/) **- Course**
+#### [**Programming with Python**](https://swcarpentry.github.io/python-novice-inflammation/) **- Course** ⭐
 
 > An online beginner course, developed by [Software Carpentry](https://software-carpentry.org/about/), introducing the basics of Python programming through data analysis
 
 ## Python for Data Science {#py-datasci}
 
-#### [**Data Analysis with Pandas and Python**](https://learning.oreilly.com/videos/data-analysis-with/9781788622394/) **- Textbook**
+#### [**Data Analysis with Pandas and Python**](https://learning.oreilly.com/videos/data-analysis-with/9781788622394/) **- Textbook** ⭐
 
 > A text that introduces you to the popular Pandas library built on top of the Python programming language
 
-#### [**Python for Data Analysis, 3rd Edition**](https://learning.oreilly.com/library/view/python-for-data/9781098104023/) **- Textbook**
+#### [**Python for Data Analysis, 3rd Edition**](https://learning.oreilly.com/library/view/python-for-data/9781098104023/) **- Textbook** ⭐⭐
 
 > A definitive handbook for manipulating, processing, cleaning, and crunching datasets in Python
 
-#### [**Pandas for Everyone: Python Data Analysis, 2nd Edition**](https://learning.oreilly.com/library/view/pandas-for-everyone/9780137891146/) **- Textbook**
+#### [**Pandas for Everyone: Python Data Analysis, 2nd Edition**](https://learning.oreilly.com/library/view/pandas-for-everyone/9780137891146/) **- Textbook** ⭐
 
 > A text providing practical knowledge and insight for solving real problems with [pandas](https://pandas.pydata.org/docs/), even for those new to Python data analysis
 
-#### [**Python Data Science Handbook, 2nd Edition**](https://learning.oreilly.com/library/view/python-data-science/9781098121211/) **- Textbook**
+#### [**Python Data Science Handbook, 2nd Edition**](https://learning.oreilly.com/library/view/python-data-science/9781098121211/) **- Textbook** ⭐
 
 > A handbook for scientific computing in Python that highlights the data science stack - IPython, NumPy, pandas, Matplotlib, Scikit-Learn, and other related tools
 
 ## Python for Data Visualization
 
-#### [**Introduction to Data Visualization in Python**](https://gilberttanner.com/blog/introduction-to-data-visualization-inpython/) **- Tutorial**
+#### [**Introduction to Data Visualization in Python**](https://gilberttanner.com/blog/introduction-to-data-visualization-inpython/) **- Tutorial** ⭐
 
 > An article with quick tutorials on visualizing data with Python in Matplotlib, Pandas, and Seaborn
 
-#### [**A Complete Guide to Data Visualization in Python With Libraries & More**](https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python) **- Video**
+#### [**A Complete Guide to Data Visualization in Python With Libraries & More**](https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python) **- Video** ⭐
 
 > A (1h 54m) video with transcription which reviews the basics of data visualization in Python with Matplotlib and Seaborn

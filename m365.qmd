@@ -1,55 +1,57 @@
+**Skill Level**: ⭐ Beginner --- ⭐⭐ Intermediate --- ⭐⭐⭐ Advanced
+
 # 📰 Microsoft 365
 
 ## Apps Overview {#apps}
 
-#### [**Describe productivity solutions of Microsoft 365**](https://learn.microsoft.com/en-us/training/modules/describe-productivity-solutions-microsoft-365/) **- Module**
+#### [**Describe productivity solutions of Microsoft 365**](https://learn.microsoft.com/en-us/training/modules/describe-productivity-solutions-microsoft-365/) **- Module** ⭐
 
 > Learn about how the productivity solutions through Microsoft 365 help optimize operations, enhance content creation, and empower people to perform tasks in real-time from virtually anywhere
 
 ## Automation {#auto}
 
-#### [**Learning Power Automate Desktop for Developers**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-power-automate-desktop-for-developers%3Ftrk%3Dshare_ent_url%26shareId%3DHp1BdkyhRM%252B64Pn1609rMg%253D%253D) **- Video**
+#### [**Learning Power Automate Desktop for Developers**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-power-automate-desktop-for-developers%3Ftrk%3Dshare_ent_url%26shareId%3DHp1BdkyhRM%252B64Pn1609rMg%253D%253D) **- Video** ⭐⭐
 
 > A (1h 45m) introductory course on getting started with Power Automate Desktop.
 
 ## Data Management {#data-man}
 
-#### [**Managing Data with Microsoft 365**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmanaging-data-with-microsoft-365%3Ftrk%3Dshare_ent_url%26shareId%3DLttOXX6TQXaQPDpPTCQeJQ%253D%253D) **- Video**
+#### [**Managing Data with Microsoft 365**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmanaging-data-with-microsoft-365%3Ftrk%3Dshare_ent_url%26shareId%3DLttOXX6TQXaQPDpPTCQeJQ%253D%253D) **- Video** ⭐
 
 > A (1h 3m) overview course on managing data with Microsoft Forms, Excel, Power Automate, and Power BI
 
 ## Gantt {#gantt}
 
-#### [**Present your data in a Gantt chart in Excel**](https://support.microsoft.com/en-us/office/present-your-data-in-a-gantt-chart-in-excel-f8910ab4-ceda-4521-8207-f0fb34d9e2b6) **- Tutorial**
+#### [**Present your data in a Gantt chart in Excel**](https://support.microsoft.com/en-us/office/present-your-data-in-a-gantt-chart-in-excel-f8910ab4-ceda-4521-8207-f0fb34d9e2b6) **- Tutorial** ⭐
 
 > Microsoft 365 subscription offers premium Gantt chart templates designed to help you track project tasks with visual reminders and color-coded categories
 
-#### [**Get organized with Gantt chart templates**](https://create.microsoft.com/en-us/templates/gantt-charts) **- Templates**
+#### [**Get organized with Gantt chart templates**](https://create.microsoft.com/en-us/templates/gantt-charts) **- Templates** ⭐⭐
 
 > A listing of Gantt chart templates for Excel
 
-#### [**Use a wizard to create a Gantt Chart**](https://support.microsoft.com/en-us/office/use-a-wizard-to-create-a-gantt-chart-90ddd935-b0ab-412c-aebc-874f309f6b26) **- Tutorial**
+#### [**Use a wizard to create a Gantt Chart**](https://support.microsoft.com/en-us/office/use-a-wizard-to-create-a-gantt-chart-90ddd935-b0ab-412c-aebc-874f309f6b26) **- Tutorial** ⭐
 
 > Specific to Microsoft Project, which includes a wizard to walk through the creation of a Gantt chart
 
-#### [**Building a Gantt Chart using Power BI**](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-a-gantt-chart-using-power-bi/ba-p/3605928) **- Tutorial**
+#### [**Building a Gantt Chart using Power BI**](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-a-gantt-chart-using-power-bi/ba-p/3605928) **- Tutorial** ⭐⭐
 
 > A step-by-step guide on loading an excel sheet into Power BI to create a Gantt chart
 
-#### [**Set up a basic Gantt chart in Excel**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fproject-management-simplified-2019%2Fset-up-a-basic-gantt-chart-in-excel%3Ftrk%3Dshare_video_url%26shareId%3DqdS5MKdIT%252BS1nQpjQe%252Bf%252Fw%253D%253D) **- Video**
+#### [**Set up a basic Gantt chart in Excel**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fproject-management-simplified-2019%2Fset-up-a-basic-gantt-chart-in-excel%3Ftrk%3Dshare_video_url%26shareId%3DqdS5MKdIT%252BS1nQpjQe%252Bf%252Fw%253D%253D) **- Video** ⭐
 
 > A 10 minute video walking through the process of a setting up a Gantt chart using Excel
 
-#### [**Using Excel for Gantt charts: My top 10 tips**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-gantt-charts%2Fusing-excel-for-gantt-charts-my-top-10-tips-2%3Ftrk%3Dshare_video_url%26shareId%3DkOO10GaaRYqqbosYs7TvDw%253D%253D) **- Video**
+#### [**Using Excel for Gantt charts: My top 10 tips**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-gantt-charts%2Fusing-excel-for-gantt-charts-my-top-10-tips-2%3Ftrk%3Dshare_video_url%26shareId%3DkOO10GaaRYqqbosYs7TvDw%253D%253D) **- Video** ⭐
 
 > A quick 4 minute video with pro tips on using Excel for Gantt charts
 
 ## Project Management {#proj-man}
 
-#### [**Managing Projects with Microsoft 365**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmanaging-projects-with-microsoft-365%3Ftrk%3Dshare_ent_url%26shareId%3DF1dFw1tHTDCFwOptEFADAQ%253D%253D) **- Video**
+#### [**Managing Projects with Microsoft 365**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmanaging-projects-with-microsoft-365%3Ftrk%3Dshare_ent_url%26shareId%3DF1dFw1tHTDCFwOptEFADAQ%253D%253D) **- Video** ⭐
 
 > A (49m) overview course on managing project using Microsoft Lists, Planner, and Project
 
-#### [**Microsoft Planner Essential Training**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmicrosoft-planner-essential-training-2021%3Ftrk%3Dshare_ent_url%26shareId%3D0TzBAbapRymqdDjkse3vCg%253D%253D) **- Video**
+#### [**Microsoft Planner Essential Training**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fmicrosoft-planner-essential-training-2021%3Ftrk%3Dshare_ent_url%26shareId%3D0TzBAbapRymqdDjkse3vCg%253D%253D) **- Video** ⭐
 
 > A (1h 27m) Linkedin Learning course on the essential features of Microsoft Planner

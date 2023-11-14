@@ -1,19 +1,21 @@
+**Skill Level**: ⭐ Beginner --- ⭐⭐ Intermediate --- ⭐⭐⭐ Advanced
+
 # 🔖 Citation Management
 
 ## Learn Zotero
 
-#### [**Zotero Quick-Start Guide**](https://www.zotero.org/support/quick_start_guide) **- Documentation**
+#### [**Zotero Quick-Start Guide**](https://www.zotero.org/support/quick_start_guide) **- Documentation** ⭐
 
 > An overview of Zotero's features and capabilities from the Zotero team
 
-#### [**Zotero Research Guide**](https://guides.lib.umich.edu/zotero) **- Reference**
+#### [**Zotero Research Guide**](https://guides.lib.umich.edu/zotero) **- Reference** ⭐
 
 > A research guide developed by the University of Michigan Library with guidance on saving, organizing, and automating citation management
 
-#### [**How To Use Zotero (A Complete Beginner's Guide)**](https://youtu.be/JG7Uq_JFDzE?si=E6ct16pIHbP0XmD4) **- Video**
+#### [**How To Use Zotero (A Complete Beginner's Guide)**](https://youtu.be/JG7Uq_JFDzE?si=E6ct16pIHbP0XmD4) **- Video** ⭐
 
 > A (12 min) tutorial on how to use Zotero for beginners
 
-#### [**Upcoming Sessions from the Teaching and Technology Collaborative**](https://ttc.iss.lsa.umich.edu/ttc/sessions/upcoming/sponsor/university-library/?mode=excerpt) **- Workshops**
+#### [**Upcoming Sessions from the Teaching and Technology Collaborative**](https://ttc.iss.lsa.umich.edu/ttc/sessions/upcoming/sponsor/university-library/?mode=excerpt) **- Workshops** ⭐⭐
 
 > A listing of upcoming in-person workshops on citation management and research tools from the University of Michigan Library

@@ -1,75 +1,77 @@
+**Skill Level**: ⭐ Beginner --- ⭐⭐ Intermediate --- ⭐⭐⭐ Advanced
+
 # 💾 Git and GitLab
 
 ## Learn Git {#learn_git}
 
-#### [**Pro Git book**](https://git-scm.com/book/en/v2) **- Book**
+#### [**Pro Git book**](https://git-scm.com/book/en/v2) **- Book** ⭐⭐
 
 > Learn git at your own pace with the Pro Git Book, managed by the git community
 
-#### [**Git Cheatsheet by GitLab**](https://about.gitlab.com/images/press/git-cheat-sheet.pdf?_gl=1*bjp8hu*_ga*ODEyNTM5MDY4LjE2ODc4NzMyNDc.*_ga_ENFH3X7M5Y*MTY4Nzg3MzI0Ni4xLjEuMTY4Nzg3MzcwNS4wLjAuMA..) **- Cheatsheet**
+#### [**Git Cheatsheet by GitLab**](https://about.gitlab.com/images/press/git-cheat-sheet.pdf?_gl=1*bjp8hu*_ga*ODEyNTM5MDY4LjE2ODc4NzMyNDc.*_ga_ENFH3X7M5Y*MTY4Nzg3MzI0Ni4xLjEuMTY4Nzg3MzcwNS4wLjAuMA..) **- Cheatsheet** ⭐
 
 > Quick reference guide for important Git commands, created by GitLab
 
-#### [**Git Cheatsheet by Atlassian**](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) **- Cheatsheet**
+#### [**Git Cheatsheet by Atlassian**](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) **- Cheatsheet** ⭐
 
 > A handy git cheat sheet guide to enhance your workflow, created by Atlassian.
 
-#### [**Git Cheatsheet by GitHub**](https://education.github.com/git-cheat-sheet-education.pdf) **- Cheatsheet**
+#### [**Git Cheatsheet by GitHub**](https://education.github.com/git-cheat-sheet-education.pdf) **- Cheatsheet** ⭐
 
 > Quick reference guide for important Git commands, created by GitHub
 
-#### [**Getting Git: Git version control software with RStudio**](https://www.mivideo.it.umich.edu/media/t/1_iut23fhb) **- Video**
+#### [**Getting Git: Git version control software with RStudio**](https://www.mivideo.it.umich.edu/media/t/1_iut23fhb) **- Video** ⭐⭐
 
 > A recorded workshop on Git version control software with RStudio from the University of Michigan Biostatistics department
 
-#### [**Using Git with RStudio**](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html#learngit) **- Tutorial**
+#### [**Using Git with RStudio**](https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html#learngit) **- Tutorial** ⭐
 
 > Quick reference step-by-step tutorial on setting up git with RStudio
 
-#### [**Git Learning Videos**](https://git-scm.com/videos) **- Video**
+#### [**Git Learning Videos**](https://git-scm.com/videos) **- Video** ⭐⭐
 
 > Links to some basic tutorial videos created by the git maintainer community
 
-#### [**Learn Git on the Command Line**](https://youtube.com/playlist?list=PLyCj4RCToz5DRDx3sJ4iW9i8D2G8OdHYH&si=OEz0y5-Noo6iuEzc) **- Video**
+#### [**Learn Git on the Command Line**](https://youtube.com/playlist?list=PLyCj4RCToz5DRDx3sJ4iW9i8D2G8OdHYH&si=OEz0y5-Noo6iuEzc) **- Video** ⭐
 
 > A playlist of YouTube videos prepared by Tower, a git client for macOS and Windows
 
-#### [**Version Control with Git**](https://swcarpentry.github.io/git-novice/index.html) **- Course**
+#### [**Version Control with Git**](https://swcarpentry.github.io/git-novice/index.html) **- Course** ⭐
 
 > An online beginner course, developed by [Software Carpentry](https://software-carpentry.org/about/), teaching the basics of version control with Git
 
-#### [**Interactive Git Cheatsheet**](https://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;) **- Cheatsheet**
+#### [**Interactive Git Cheatsheet**](https://ndpsoftware.com/git-cheatsheet.html#loc=local_repo;) **- Cheatsheet** ⭐⭐
 
 > An interactive Git Cheatsheet, developed by NDP Software, that visually represents git commands and states
 
-#### [**Confusing git terminology**](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_460#commit) **- Blog**
+#### [**Confusing git terminology**](https://jvns.ca/blog/2023/11/01/confusing-git-terminology/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_460#commit) **- Blog** ⭐⭐
 
 > A blog entry from [Julia Evans](https://jvns.ca/about/), a software developer, which walks through various git terms that tend to confuse users
 
 ## Learn GitLab {#learn_gitlab}
 
-#### [**Learn GitLab with Pj: A Walkthrough and Explanation**](https://youtu.be/-oaI2WEKdI4?si=1MZ0YMiq4-yWd0AZ) **- Video**
+#### [**Learn GitLab with Pj: A Walkthrough and Explanation**](https://youtu.be/-oaI2WEKdI4?si=1MZ0YMiq4-yWd0AZ) **- Video** ⭐
 
 > Overview and walkthrough of GitLab Project basics by a member of the GitLab education team
 
-#### [**GitLab Flavored Markdown (GLFM)**](https://docs.gitlab.com/ee/user/markdown.html) **- Documentation**
+#### [**GitLab Flavored Markdown (GLFM)**](https://docs.gitlab.com/ee/user/markdown.html) **- Documentation** ⭐
 
 > Overview of styling and syntax for GitLab's version of Markdown
 
-#### [**Use the left sidebar to navigate GitLab**](https://docs.gitlab.com/ee/tutorials/left_sidebar/index.html) **- Tutorial**
+#### [**Use the left sidebar to navigate GitLab**](https://docs.gitlab.com/ee/tutorials/left_sidebar/index.html) **- Tutorial** ⭐
 
 > A walk-through of GitLab's navigation in the left-hand sidebar
 
-#### [**Learning GitLab**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-gitlab-14539757%3Ftrk%3Dshare_ent_url%26shareId%3Dli1%252F%252B7tOS2OG5XGCR7sqPw%253D%253D) **- Video**
+#### [**Learning GitLab**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-gitlab-14539757%3Ftrk%3Dshare_ent_url%26shareId%3Dli1%252F%252B7tOS2OG5XGCR7sqPw%253D%253D) **- Video** ⭐
 
 > A (1h 3m) LinkedIn Learning tutorial with an overview of basic GitLab UI and functionality
 
 ## Learn Version Control and Source Code Management {#learn_vcontrol}
 
-#### [**What is Version Control? \[Learn Git Video Course\]**](https://youtu.be/M-O8ZNW9icQ?si=1l-QlS3IKYrVQCUi) **- Video**
+#### [**What is Version Control? \[Learn Git Video Course\]**](https://youtu.be/M-O8ZNW9icQ?si=1l-QlS3IKYrVQCUi) **- Video** ⭐
 
 > A short video reviewing the basics of version control and why to use it
 
-#### [**GitLab Branching Strategy \| GitLab Flow Tutorial Part 1**](https://youtu.be/ZJuUz5jWb44?si=0JqhRnCUR7tc2UqZ) **- Video**
+#### [**GitLab Branching Strategy \| GitLab Flow Tutorial Part 1**](https://youtu.be/ZJuUz5jWb44?si=0JqhRnCUR7tc2UqZ) **- Video** ⭐⭐
 
 > A (15 min) tutorial discussing GitLab Flow and a conceptual overview of strategies for working with Git
