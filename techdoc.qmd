@@ -1,45 +1,47 @@
+**Skill Level**: ★ Beginner --- ★★ Intermediate --- ★★★ Advanced
+
 # 📑 Technical Documentation
 
 ## Best Practices
 
-#### [**How to name files by Jennifer Bryan of Posit**](https://youtu.be/ES1LTlnpLMk?si=TCYp9tKORIAciav1) **- Video** ⭐
+#### [**How to name files by Jennifer Bryan of Posit**](https://youtu.be/ES1LTlnpLMk?si=TCYp9tKORIAciav1) **- Video**  ★
 
 > Low-tech common sense about filenames. The holy trinity is: machine readable, human readable, sorted in a useful way
 
-#### [**The Documentation System**](https://documentation.divio.com/) **- Reference** ⭐⭐
+#### [**The Documentation System**](https://documentation.divio.com/) **- Reference**  ★★
 
 > A simple, comprehensive and nearly universally-applicable scheme for writing software documentation
 
-#### [**Diátaxis technical documentation system**](https://diataxis.fr/) **- Reference** ⭐⭐
+#### [**Diátaxis technical documentation system**](https://diataxis.fr/) **- Reference**  ★★
 
 > This reference describes an information architecture that emerges from a systematic approach to understanding the needs of documentation users
 
-#### [**How To Write a Useful README for Your Next Project**](https://betterprogramming.pub/how-to-write-a-useful-readme-for-your-next-project-3edf889059fe) **- Article** ⭐
+#### [**How To Write a Useful README for Your Next Project**](https://betterprogramming.pub/how-to-write-a-useful-readme-for-your-next-project-3edf889059fe) **- Article**  ★
 
 > An article outlining the "must-haves" for any project's README file
 
 ## Markdown
 
-#### [**Getting Started: An overview of Markdown...**](https://markdownguide.offshoot.io/getting-started/) **- Reference** ⭐
+#### [**Getting Started: An overview of Markdown...**](https://markdownguide.offshoot.io/getting-started/) **- Reference**  ★
 
 > *The Markdown Guide* is a comprehensive Markdown reference designed for both novices and experts
 
-#### [**John Gruber's Markdown documentation**](https://daringfireball.net/projects/markdown/) **- Documentation** ⭐⭐
+#### [**John Gruber's Markdown documentation**](https://daringfireball.net/projects/markdown/) **- Documentation**  ★★
 
 > The original Markdown documentation, written by the creator of Markdown
 
-#### [**Markdown Tutorial**](https://markdownguide.offshoot.io/getting-started/) **- Tutorial** ⭐
+#### [**Markdown Tutorial**](https://markdownguide.offshoot.io/getting-started/) **- Tutorial**  ★
 
 > A web-based walk-through of Markdown basics
 
-#### [**Awesome Markdown**](https://github.com/mundimark/awesome-markdown#awesome-markdown) **- Reference** ⭐⭐
+#### [**Awesome Markdown**](https://github.com/mundimark/awesome-markdown#awesome-markdown) **- Reference**  ★★
 
 > A listing of Markdown libraries, services, editors, tools, cheatsheets, etc.
 
-#### [**Awesome Quarto**](https://github.com/mcanouil/awesome-quarto) **- Reference** ⭐⭐
+#### [**Awesome Quarto**](https://github.com/mcanouil/awesome-quarto) **- Reference**  ★★
 
 > The most up to date curated list of Quarto docs, talks, tools, examples & articles the internet has to offer
 
-#### [**R Markdown Tips, Tricks, and Shortcuts**](https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/) **- Blog** ⭐⭐
+#### [**R Markdown Tips, Tricks, and Shortcuts**](https://www.dataquest.io/blog/r-markdown-tips-tricks-and-shortcuts/) **- Blog**  ★★
 
 > A blog post with some helpful tips and tricks for working with R Markdown in RStudio
