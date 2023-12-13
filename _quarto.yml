@@ -13,9 +13,11 @@ book:
     - python.qmd
     - rstud.qmd
     - regex.qmd
+    - sql.qmd
     - stats.qmd
     - tableau.qmd
     - techdoc.qmd
+    - terminal.qmd
   downloads: pdf
   back-to-top-navigation: true
     
