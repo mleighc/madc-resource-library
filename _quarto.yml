@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - citation.qmd
+    - command.qmd
     - git.qmd
     - m365.qmd
     - python.qmd
@@ -17,7 +18,6 @@ book:
     - stats.qmd
     - tableau.qmd
     - techdoc.qmd
-    - terminal.qmd
   downloads: pdf
   back-to-top-navigation: true
     

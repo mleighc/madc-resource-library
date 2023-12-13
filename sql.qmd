@@ -1,5 +1,5 @@
 **Skill Level**: ★ Beginner --- ★★ Intermediate --- ★★★ Advanced
 
-# 📑 Structured query language (SQL)
+# ❔ Structured Query Language (SQL)
 
 ## More soon!

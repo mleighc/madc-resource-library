@@ -1,5 +1,5 @@
 **Skill Level**: ★ Beginner --- ★★ Intermediate --- ★★★ Advanced
 
-# 📑 Terminal/Command Prompt/Unix
+# 💻 Command-line Interface (CLI)
 
 ## More soon!
