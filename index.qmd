@@ -2,4 +2,12 @@
 
 Compiled by members of the [Michigan Alzheimer's Disease Center's (MADC)](https://alzheimers.med.umich.edu/aboutus/) Data Core, this site contains a growing list of resources for current and newly on-boarded staff to build technical skills supporting the MADC's day-to-day work.
 
+**Feedback and Suggestions** \
 If you would like to make suggestions of resources to include or provide other feedback related to this library, [please submit this form](https://forms.office.com/r/Y5DYvLgYEJ). The team will review your suggestions and update the library regularly.
+
+**Accessing O'Reilly Ebooks\
+**For any resources linked from the [O'Reilly Safari Learning Platform](https://search.lib.umich.edu/databases/record/10263?query=o%27reilly&utm_source=lib-home), staff have unlimited access to a free account via the University of Michigan library. When viewing the screen labeled "Welcome! Get instant access through your library.":
+
+1.  Choose "**Select your institution"** to open the menu and select the first option "**Not listed? Click here."**
+
+2.  In the **Academic email box**, enter your **U-M email address** (in the format: uniqname\@umich.edu).

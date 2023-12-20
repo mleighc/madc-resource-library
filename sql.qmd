@@ -12,6 +12,22 @@
 
 > A quick reference list of the reserved words in SQL
 
+#### [**SQLZoo Tutorial**](https://sqlzoo.net/wiki/SQL_Tutorial) **- Tutorial ★**
+
+> A step by step tutorial reviewing the basics of SQL queries
+
+#### [**Practical SQL, 2nd Edition**](https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/) **- Book ★**
+
+> An approachable and fast-paced guide to SQL (Structured Query Language), the standard programming language for defining, organizing, and exploring data in relational databases
+
+#### [**Learn SQL**](https://www.codecademy.com/learn/learn-sql) **- Course ★**
+
+> A free self-paced course, developed by [codecademy](https://www.codecademy.com/), which demonstrates how to manage large datasets and analyze real data using standard data management language
+
+#### [**SQLBolt: Introduction to SQL**](https://sqlbolt.com/) **- Course ★**
+
+> A series of interactive lessons and exercises designed to help you quickly learn SQL in your browser
+
 #### [**SQL join flavors**](https://antonz.org/sql-join/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_453) **- Article ★★**
 
 > An article that explores various types of SQL joins, including helpful visualizations for each
