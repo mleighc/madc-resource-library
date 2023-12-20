@@ -2,4 +2,16 @@
 
 # 💻 Command-line Interface (CLI)
 
-## More soon!
+## Learn the Command-line
+
+#### [Command Line for Beginners -- How to Use the Terminal Like a Pro](https://www.freecodecamp.org/news/command-line-for-beginners/) **- Article ★**
+
+> An article from [freeCodeCamp](https://www.freecodecamp.org/news) that explains the various parts of the command line interface and the basics of how it works
+
+#### [The Linux Command Line](https://linuxcommand.org/tlcl.php) **- Book ★**
+
+> A book, written with the new command line user in mind, which includes the basics of command line use and shell scripting. Check out the corresponding website: [linuxcommand.org](https://linuxcommand.org/index.php)
+
+#### [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line#the-art-of-command-line) **- Guide ★★**
+
+> A guide that provides an overview of interactive Bash for Linux with two sections that include additional guidance for macOS and Windows users
