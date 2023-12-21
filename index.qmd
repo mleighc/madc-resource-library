@@ -8,6 +8,8 @@ If you would like to make suggestions of resources to include or provide other f
 **Accessing O'Reilly Ebooks**\
 For any resources linked from the [O'Reilly Safari Learning Platform](https://search.lib.umich.edu/databases/record/10263?query=o%27reilly&utm_source=lib-home), staff have unlimited access to a free account via the University of Michigan library. When viewing the screen labeled "Welcome! Get instant access through your library.":
 
-1.  Choose "**Select your institution"** to open the menu and select the first option "**Not listed? Click here."**
+1.  Choose "**Select your institution"** to open the menu and select the first option"**Not listed? Click here."**
 
 2.  In the **Academic email box**, enter your **U-M email address** (in the format: uniqname\@umich.edu).
+
+Via O'Reilly's Safari Learning Platform, you have access to 40,000+ technical books, videos, interactive tutorials, case studies, learning paths, and audio books across a [myriad of topics](https://learning.oreilly.com/search/topics/?type=*).
