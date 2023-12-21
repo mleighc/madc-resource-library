@@ -58,10 +58,6 @@
 
 > The companion website to Chester Ismay and Albert Y. Kim's introductory statistics textbook, which walks students through the entire data analysis pipeline using R and tidyverse
 
-#### [**The Quartz Guide to Bad Data**](https://github.com/Quartz/bad-data-guide) **- Reference** ★
-
-> This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data.
-
 #### [**R Screencasts**](https://www.rscreencasts.com/) **- Video** ★★
 
 > Live data analysis screencasts from a top Data Scientist, David Robinson
@@ -207,6 +203,10 @@
 #### [**Learning the R Tidyverse**](https://www.linkedin.com/learning-login/share?account=42573940&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-the-r-tidyverse%3Ftrk%3Dshare_ent_url%26shareId%3Dehaqf8cOSwSdHdIMKzDxcA%253D%253D) **- Video** ★
 
 > A (3h 50m) LinkedIn Learning course walking through the tidyverse approach to data science
+
+#### [**The Quartz Guide to Bad Data**](https://github.com/Quartz/bad-data-guide) **- Reference** ★
+
+> This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data
 
 ## Programming in R {#prog-r}
 
