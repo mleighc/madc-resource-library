@@ -63,3 +63,9 @@
 #### [**A Complete Guide to Data Visualization in Python With Libraries & More**](https://www.simplilearn.com/tutorials/python-tutorial/data-visualization-in-python) **- Video** ★
 
 > A (1h 54m) video with transcription which reviews the basics of data visualization in Python with Matplotlib and Seaborn
+
+## Python for Data Wrangling
+
+#### [**polars\' Rgonomic Patterns**](https://www.emilyriederer.com/post/py-rgo-polars/) **- Blog ★★**
+
+> A blog post highlighting the advanced data wrangling functionality in python's [polars](https://docs.pola.rs/user-guide/) package to see how it mirrors `dplyr` and `tidyr`\'s syntax

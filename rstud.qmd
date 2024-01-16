@@ -186,6 +186,10 @@
 
 > An online self-paced course that examines a variety of issues related to data visualization from a largely psychological perspective, including an overview of ggplot2
 
+#### [**Modern Data Visualization with R**](https://rkabacoff.github.io/datavis/) **- Book ★**
+
+> A helpful and user-friendly book that walks through creating the most popular visualizations - from quick and dirty plots to publication-ready graphs
+
 ## Data Wrangling in R {#r-wrangle}
 
 #### [**Data Wrangling with R**](https://link.springer.com/book/10.1007/978-3-319-45599-0#:~:text=PDF-,Introduction,-Front%20Matter) **- Textbook** ★
