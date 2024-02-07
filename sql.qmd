@@ -32,6 +32,10 @@
 
 > An article that explores various types of SQL joins, including helpful visualizations for each
 
+#### [**SQL for the Weary**](https://gvwilson.github.io/sql-tutorial/) **- Tutorial ★★**
+
+> A tutorial with notes and working examples for various SQL and database functions
+
 ## Helpful Tools
 
 #### [**SQL Polyglot**](https://codapi.org/sql/) **- Tool ★★**
