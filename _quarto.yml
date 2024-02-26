@@ -10,6 +10,7 @@ book:
     - citation.qmd
     - command.qmd
     - git.qmd
+    - generative_ai.qmd
     - m365.qmd
     - python.qmd
     - rstud.qmd
