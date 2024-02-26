@@ -9,8 +9,8 @@ book:
     - index.qmd
     - citation.qmd
     - command.qmd
-    - git.qmd
     - generative_ai.qmd
+    - git.qmd
     - m365.qmd
     - python.qmd
     - rstud.qmd
