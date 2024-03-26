@@ -48,6 +48,10 @@
 
 > A blog post covering some of the best features of RStudio with a list of tips, tricks, and shortcuts
 
+#### [**What They Forgot to Teach You About R**](https://rstats.wtf/) **- Book ★★**
+
+> This book focuses on content intrinsically related to the infrastructure surrounding data analysis in R, but does not delve into the data analysis itself
+
 ## R and Data Science {#r-ds}
 
 #### [**R for Data Science (2e)**](https://r4ds.hadley.nz/) **- Textbook** ★★
