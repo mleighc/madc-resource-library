@@ -196,6 +196,10 @@
 
 ## Data Wrangling in R {#r-wrangle}
 
+#### [**tidyexplain**](https://www.garrickadenbuie.com/project/tidyexplain/) **- Tutorial ★**
+
+> Animations of tidyverse verbs using R, the tidyverse, and gganimate
+
 #### [**Data Wrangling with R**](https://link.springer.com/book/10.1007/978-3-319-45599-0#:~:text=PDF-,Introduction,-Front%20Matter) **- Textbook** ★
 
 > A text for all levels of R programmers, covering the various data wrangling packages: dplyr, tidyr, httr, stringr, lubridate, readr, rvest, magrittr, xlsx, readxl, and others
@@ -215,6 +219,10 @@
 #### [**The Quartz Guide to Bad Data**](https://github.com/Quartz/bad-data-guide) **- Reference** ★
 
 > This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data
+
+#### [**Visualizing {dplyr}\'s mutate(), summarize(), group_by(), and ungroup() with animations**](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/) **- Article ★**
+
+> Visually explore how {dplyr}\'s more complex core functions work together to wrangle data
 
 ## Programming in R {#prog-r}
 
