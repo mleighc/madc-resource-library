@@ -53,3 +53,9 @@
 #### [**How to format your text in Trello**](https://support.atlassian.com/trello/docs/how-to-format-your-text-in-trello/) **- Tutorial ★**
 
 > A quick guide to the keyboard shortcuts and Markdown features available in Trello
+
+## Table Formatting
+
+#### [**The Design Philosophy of Great Tables**](https://posit-dev.github.io/great-tables/blog/design-philosophy/) **- Article ★**
+
+> Tables have come a long way and we\'ve learned a lot from our continued research in tabular design. This article walks through the philosophy behind the [Great Tables package](https://posit-dev.github.io/great-tables/articles/intro.html)

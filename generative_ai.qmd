@@ -7,3 +7,9 @@
 #### [**ITS AI Services**](https://its.umich.edu/computing/ai) **- Article ★**
 
 > ITS is now offering a generative AI platform and these service offerings are equitable, accessible, and support everything from basic consumer usage to advanced research and experimentation
+
+## An Introduction to Generative AI
+
+#### [**Generative AI for Beginners (Version 2) - A Course**](https://microsoft.github.io/generative-ai-for-beginners/#/) **- Course ★**
+
+> Learn the fundamentals of building Generative AI applications with an 18-lesson comprehensive course by Microsoft Cloud Advocates
