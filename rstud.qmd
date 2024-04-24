@@ -52,6 +52,10 @@
 
 > This book focuses on content intrinsically related to the infrastructure surrounding data analysis in R, but does not delve into the data analysis itself
 
+#### [**R for the Rest of Us: A Statistics-Free Introduction**](https://book.rfortherestofus.com/) **- Book ★★**
+
+> A crash course in R, a quick tour of the RStudio programming environment, and a collection of real-word applications that you can put to use right away
+
 ## R and Data Science {#r-ds}
 
 #### [**R for Data Science (2e)**](https://r4ds.hadley.nz/) **- Textbook** ★★
@@ -220,9 +224,9 @@
 
 > This guide presents thorough descriptions and suggested solutions to many of the kinds of problems that you will encounter when working with data
 
-#### [**Visualizing {dplyr}\'s mutate(), summarize(), group_by(), and ungroup() with animations**](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/) **- Article ★**
+#### [**Visualizing {dplyr}'s mutate(), summarize(), group_by(), and ungroup() with animations**](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/) **- Article ★**
 
-> Visually explore how {dplyr}\'s more complex core functions work together to wrangle data
+> Visually explore how {dplyr}'s more complex core functions work together to wrangle data
 
 ## Programming in R {#prog-r}
 
