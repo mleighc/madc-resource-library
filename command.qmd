@@ -19,3 +19,13 @@
 #### [**Command Line Fundamentals**](https://learning.oreilly.com/library/view/command-line-fundamentals/9781789807769/) **- Book ★**
 
 > Master shell basics and Unix tools and discover easy commands to perform complex tasks with speed
+
+## Command-line Tools
+
+#### [Tabiew](https://github.com/shshemi/tabiew#tabiew) **- Tool ★★**
+
+> Tabiew is a lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV and TSV files
+
+#### [emphatic](https://github.com/coolbutuseless/emphatic/?tab=readme-ov-file#emphatic) **- Tool ★★**
+
+> `{emphatic}` is a tool for exploratory analysis of tabular data. It allows the user to visually colour elements of the data, yet still keep all values visible
