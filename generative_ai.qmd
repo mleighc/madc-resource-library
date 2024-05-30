@@ -1,6 +1,6 @@
 **Skill Level**: ★ Beginner --- ★★ Intermediate --- ★★★ Advanced
 
-# 🧠 Generative artificial intelligence (AI)
+# 🧠 Generative artificial intelligence (GenAI)
 
 ## Access UM-Supported AI Services
 
