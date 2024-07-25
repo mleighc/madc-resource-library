@@ -1,10 +1,10 @@
-image: alpine:latest
+image: google/cloud-sdk:latest
 
 stages:
   - deploy
 
 before_script:
-  - apk update && apk add unzip bash git # Install necessary packages
+  - apt-get update && apt-get install -y unzip git bash # Install necessary packages
   - git clone https://github.com/quarto-dev/quarto-cli # Clone the quarto-cli repo
   - cd quarto-cli # Switch directories
   - git pull # Update to latest development version
