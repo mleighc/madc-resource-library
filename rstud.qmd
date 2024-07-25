@@ -228,6 +228,10 @@
 
 > Visually explore how {dplyr}'s more complex core functions work together to wrangle data
 
+#### [**Introduction to R with Tidyverse**](https://introduction-r-tidyverse.netlify.app/) **- Course ★**
+
+> This course is a gentle introduction to the RStudio interface and provides the basics of the R coding language and syntax. This course is ideal for beginners with little or no prior coding experience
+
 ## Programming in R {#prog-r}
 
 #### [**Introduction to Programming in R**](https://www.mivideo.it.umich.edu/media/t/1_4l4jfwk6) **- Video** ★
