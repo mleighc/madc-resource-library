@@ -1,9 +1,11 @@
+image: ubuntu:20.04
+
 stages:
   - deploy
 
 before_script:
   - /bin/bash #open a shell
-  - apt-get install unzip #install the unzip command for later in the script
+  - apt-get update && apt-get install -y unzip #install the unzip command for later in the script
   - git clone https://github.com/quarto-dev/quarto-cli #clone the quarto-cli repo
   - cd quarto-cli #switch directories
   - git pull #update to latest development version
@@ -13,8 +15,8 @@ deploy:
   stage: deploy
   script:
     # Publish Quarto book using the Quarto CLI
-    - quarto install tinytex #install tinytext for publishing to quarto-pub
-    - export QUARTO_PUB_AUTH_TOKEN=$QUARTO_PUB_AUTH_TOKEN #authentican code environmental variable
+    - quarto install tinytex #install tinytex for publishing to quarto-pub
+    - export QUARTO_PUB_AUTH_TOKEN=$QUARTO_PUB_AUTH_TOKEN #authentication code environmental variable
     - quarto publish --no-prompt --no-browser quarto-pub #publish to quarto pub
   only:
     - main  # Deploy only when changes are pushed to the main branch
