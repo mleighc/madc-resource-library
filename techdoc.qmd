@@ -20,7 +20,7 @@
 
 > An article outlining the "must-haves" for any project's README file
 
-## Markdown
+## Markdown & Quarto
 
 #### [**Getting Started: An overview of Markdown...**](https://markdownguide.offshoot.io/getting-started/) **- Reference** ★
 
@@ -54,8 +54,12 @@
 
 > A quick guide to the keyboard shortcuts and Markdown features available in Trello
 
+#### [**Quarto Example Gallery**](https://quarto.org/docs/gallery/) **- Tutorial ★**
+
+> Quarto can produce a wide variety of output formats. This resource contains examples of the following categories: [Articles & Reports](https://quarto.org/docs/gallery/#articles-reports), [Presentations](https://quarto.org/docs/gallery/#presentations), [Dashboards](https://quarto.org/docs/gallery/#dashboards), [Websites](https://quarto.org/docs/gallery/#websites), [Books](https://quarto.org/docs/gallery/#books), [Interactive Docs](https://quarto.org/docs/gallery/#interactive-docs)
+
 ## Table Formatting
 
 #### [**The Design Philosophy of Great Tables**](https://posit-dev.github.io/great-tables/blog/design-philosophy/) **- Article ★**
 
-> Tables have come a long way and we\'ve learned a lot from our continued research in tabular design. This article walks through the philosophy behind the [Great Tables package](https://posit-dev.github.io/great-tables/articles/intro.html)
+> Tables have come a long way and we've learned a lot from our continued research in tabular design. This article walks through the philosophy behind the [Great Tables package](https://posit-dev.github.io/great-tables/articles/intro.html)
