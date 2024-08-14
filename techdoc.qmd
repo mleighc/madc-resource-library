@@ -54,7 +54,7 @@
 
 > A quick guide to the keyboard shortcuts and Markdown features available in Trello
 
-#### [Quarto Example Gallery](https://quarto.org/docs/gallery/) **- Tutorial ★**
+#### [**Quarto Example Gallery**](https://quarto.org/docs/gallery/) **- Tutorial ★**
 
 > Quarto can produce a wide variety of output formats. This resource contains examples of the following categories: [Articles & Reports](https://quarto.org/docs/gallery/#articles-reports), [Presentations](https://quarto.org/docs/gallery/#presentations), [Dashboards](https://quarto.org/docs/gallery/#dashboards), [Websites](https://quarto.org/docs/gallery/#websites), [Books](https://quarto.org/docs/gallery/#books), [Interactive Docs](https://quarto.org/docs/gallery/#interactive-docs)
 
