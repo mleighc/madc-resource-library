@@ -36,6 +36,10 @@
 
 > A tutorial with notes and working examples for various SQL and database functions
 
+#### [**SQL Style Guide**](https://www.sqlstyle.guide/) **- Reference ★**
+
+> A SQL syntax guide designed to be compatible with Joe Celko's [SQL Programming Style](https://www.amazon.com/gp/product/0120887975/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=treffynnon-20&linkId=9c88eac8cd420e979675c815771313d5) book
+
 ## Helpful Tools
 
 #### [**SQL Polyglot**](https://codapi.org/sql/) **- Tool ★★**
